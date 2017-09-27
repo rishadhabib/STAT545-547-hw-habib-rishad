@@ -8,8 +8,10 @@ This repo contains the 2nd homework submission for STAT 545A
 - [Readme file](README.md)
 
 - Some figures I like
-  + [Plot1](/hw02_files/plot)
-  +
+  + [Canada's life Expectancy, GDP and population growth](hw02_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-6-1.png)
+  + [Life expectancy by population across continents](hw02_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png)
+  + [Comparing Bangladesh and Canada](hw02_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-9-1.png)
+  + [Life Expectancy Density plot](hw02_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-5-1.png)
 
 
 ## Reporting my process
