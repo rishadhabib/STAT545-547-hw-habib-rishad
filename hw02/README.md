@@ -3,8 +3,8 @@
 This repo contains the 2nd homework submission for STAT 545A
 
 ## Contents:
+- [HW 02 markdown file](hw02.md)
 - [HW02 R markdown file](hw02.Rmd)
-- [HW 02 markdown html file](hw02.md)
 - [Readme file](README.md)
 
 - Some figures I like
