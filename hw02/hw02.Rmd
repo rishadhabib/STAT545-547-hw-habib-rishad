@@ -129,6 +129,16 @@ gapminder%>%
   kable("html") %>%
   kable_styling()
 ```
+Creating gdpPerlifeyear which can be thought of as a crude measure of productivity to reflect the fact that different life expectancies should affect gdp  
+```{r}
+gap_copy <- gapminder
+gap_copy%>%
+  filter(year %in% c(2002,2007))%>%
+  mutate(gdpPerlifeyear = gdpPercap/lifeExp) %>%
+  arrange(desc(gdpPerlifeyear)) %>%
+  head() %>%
+  kable()
+```
 
 
 
