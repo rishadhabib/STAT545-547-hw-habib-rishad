@@ -1,5 +1,5 @@
 ---
-title: "hw02"
+title: "Homework 02: Explore Gapminder and use dplyr"
 author: "RH"
 date: "September 24, 2017"
 output: github_document
@@ -8,15 +8,38 @@ output: github_document
 ```{r setup, include=FALSE}
 library(gapminder)
 library(tidyverse)
+library(kableExtra)
+library(knitr)
 ```
 
 ## Exploring the gapminder object
 
+For each section the code, plots, tables etc are after the questions. 
+Some typed answers are given inline.
+
 #### What type of data is it?
 
-```{r}
-str (gapminder)
+- Is it a data.frame, a matrix, a vector, a list? **dataframe**
+- What’s its class? **‘tbl_df’, ‘tbl’ and 'data.frame**
+- How many variables/columns? **6**
+- How many rows/observations? **1704**
+- Can you get these facts about “extent” or “size” in more than one way? Can you imagine different functions being useful in different contexts?
+    + yes, different functions can be useful in different situations as they can give us specific answers to our questions
+    + class(gapminder) will give the class of the data
+    + head(gapminder) to see the number of rows
+    + str(gapminder$pop) to get an idea of the number of rows
+    + typeof(gapminder$country) to get the type of each column
+- What data type is each variable?
+```{r message = FALSE}
+data.frame(variable = names(gapminder), row.names = NULL, data.type = sapply(gapminder, typeof))%>%
+  kable("markdown") %>%
+  kable_styling(bootstrap_options = c("striped", "hover"))
+```
 
+```{r}
+str(gapminder)
+ncol(gapminder)
+nrow(gapminder)
 ```
 
 
@@ -26,36 +49,100 @@ str (gapminder)
 - quantitative variable: **lifeExp**
 
 #### What are possible values (or range, whichever is appropriate) of each variable?
- variable name | type     | Range
- --------------|----------|------------
- country       | factor   | 142 variables
- pop           |numerical | from 23.60 to 82.60
+ variable name | type     | Values or Range
+ --------------|----------|----------------
+ continent     | factor   | 5 variables
+ pop           | numeric  | from 23.60 to 82.60
 ```{r}
 summary(gapminder$lifeExp) 
-str(gapminder$country)
+str (gapminder$continent)
 
 ```
 
 #### What values are typical? What’s the spread? What’s the distribution? Etc., tailored to the variable at hand.
 Feel free to use summary stats, tables, figures. We’re NOT expecting high production value (yet).
 
+
+For Life Expectancy:
+- The average value is 59.47 meaning people live about 60 years on average
+- The highest average age in any country is 82.60
+- The standard deviation is 12.92
 ```{r pressure, echo=FALSE}
+sd(gapminder$lifeExp)
 hist(gapminder$lifeExp)
+boxplot(gapminder$lifeExp)
 ```
 
+For Continent:
+- The most entries are for Africa and 
+- the least entries are for Oceania
+```{r}
+table(gapminder$continent)
+```
 
 
 ## Exploring plot types
 
+Density plot for Life Expectancy
+```{r}
+plot(density(gapminder$lifeExp))
+```
+
+
+Canada's life expectancy and GDP both grow as population (indicated by the size of the points) increases
+```{r}
+s <- round(filter(gapminder, country %in% c("Canada"))$pop/10^6.5)
+p <- ggplot(filter(gapminder, country %in% c("Canada")),
+            aes(x = gdpPercap, y = lifeExp))
+p + geom_point(size = s, shape = 18, color = "dark red", alpha = .8)
+```
+
+Plotting life expectancy by population for each country shows that African countries have lower life Expectancy while European countries have higher life expectancy regardless of population size
+```{r}
+q <- ggplot(filter(gapminder, year %in% 1962:1990),
+       aes(y = lifeExp, x = pop, color = continent)) 
+q <- q + scale_x_log10()
+q + geom_point(shape = 19)
+```
+
 
 ## Use filter(), select() and %>%
 
+I'm using these functions to compare Bangladesh (my home country) with Canada (my current country)
 
+Comparing Bangladesh and Canada's life expectancy and population growth over the years
 ```{r}
-filter(gapminder, country == c("Rwanda", "Afghanistan"))
+filter(gapminder, country == c("Canada", "Bangladesh"))%>%
+  ggplot(aes(y = lifeExp, x = pop, col = country))  + geom_point(size = 5) + geom_text(aes(label = year), hjust = .3, vjust = 2)
 ```
+Comparing Bangladesh and Canada's life expectancy and GDP growth over the years shows how Bangladesh has managed to raise life expectancy without GDP increasing as much.
+```{r}
+filter(gapminder, country == c("Canada", "Bangladesh"))%>%
+  ggplot(aes(y = lifeExp, x = gdpPercap, col = country )) + geom_point(size = 5, shape = 18) + scale_x_log10()
+```
+
+The same thing in table form:
+```{r}
+gapminder%>%
+  filter(country == c("Canada", "Bangladesh"))%>%
+  select(country, year, pop) %>%
+  kable("html") %>%
+  kable_styling()
+```
+
+
+
 ## More
 
 #### Evaluate this code and describe the result. 
 Presumably the analyst’s intent was to get the data for Rwanda and Afghanistan. Did they succeed? Why or why not? If not, what is the correct way to do this?
+
+They seem to have succeeded in getting the data for Rwanda and Afghanistan. The result is a data frame with 12 observations for each of the variables which seems a little low as each country should have 12 observations. 
+
+A better way to do this might be using %in% instead of == as that would include all entries that include either Rwanda or Afghanistan and not just unique years.
+```{r}
+filter(gapminder, country == c("Rwanda", "Afghanistan"))
+## a better way
+filter(gapminder, country %in% c("Rwanda", "Afghanistan"))
+```
 
