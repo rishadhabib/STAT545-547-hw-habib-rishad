@@ -1,0 +1,232 @@
+---
+title: "Homework 03: Use dplyr to manipulate and explore data (also use ggplot2)"
+author: "RH"
+date: "September 27, 2017"
+output: 
+  html_document: 
+    keep_md: yes
+    toc: true
+    toc_depth: 4
+---
+
+This assignment looks at the gapminder data in more detail
+
+```{r setup, include=FALSE}
+## Loading libraries
+library(tidyverse)
+library(gapminder)
+library(knitr)
+
+```
+
+
+
+#### Task 1
+
+Get the maximum and minimum of GDP per capita for all continents.
+
+First let's get this information in a table:
+```{r}
+q <- gapminder %>%
+  group_by(continent) %>%
+  summarize(minGDP = min(gdpPercap), maxGDP = max(gdpPercap), pop_cont = mean(pop))
+q %>%
+  kable("markdown")
+```
+
+Plotting the data above helps illustrate that although the minimum GDP across continents is similar, the maximum GDP differs greatly; Asia has the widest gap between the richest and the poorest country.
+```{r}
+q %>%
+  ggplot(aes(x = continent, colour = continent)) + 
+  geom_point(aes(y = maxGDP),size = (q$pop_cont/5000000), shape = 19) + 
+  geom_point(aes(y = minGDP),size = (q$pop_cont/5000000), shape = 19) +
+  scale_y_continuous(breaks = c(20000, 40000, 60000, 80000, 100000), labels = c("20k", "40k", "60k", "80k", "100k")) 
+```
+
+```{r}
+gapminder %>%
+  filter(continent=="Asia") %>%
+  arrange(desc(gdpPercap))
+```
+
+
+#### Task 2
+
+
+Look at the spread of GDP per capita within the continents. 
+We see that:
+
+* the GDP per Capita for every continent seems to be increasing over the years
+* the increase is most consistent in Oceania and Europe
+* Americas is also pretty consistent with some countries having faster growth than others
+* Africa and Asia look interesting as there are a few countries which seem to have large falls in GDP
+
+
+```{r}
+gapminder %>%
+  group_by(continent, year) %>%
+  arrange(continent) %>%
+  ggplot(aes(y=gdpPercap, x=year, colour = continent)) + 
+  geom_jitter(alpha = .5) + 
+  scale_x_continuous(breaks = c(1952, 1962, 1972, 1982, 1992, 2002),
+                   labels = c("50", "60", "70", "80", "90", "00")) + 
+  facet_wrap(~continent, scales = "free") +
+  labs(title = "Spread of GDP",
+       subtitle = "Looking at spread of GDP over continents")
+
+```
+
+Let's look at Africa and Asia in more details.
+
+First, Africa:
+
+- Arranging by GDP per Capita shows that the highest per Capita GDP in Africa was in the 1960's, 70's and 80's
+- These high GDP's come mainly from Libya and Gabon
+- Both these countries GDPs seem to have fallen since then
+```{r}
+gapminder %>%
+  group_by(continent) %>%
+  arrange(desc(gdpPercap)) %>%
+  filter(continent == "Africa") %>%
+  head() %>%
+  kable("markdown")
+```
+<a id="libgab"></a>
+Let's plot Libya and Gabon's GDP per Capita over the years:
+
+- It seems both countries experienced a GDP boom in the 1960's
+- Both countries GDP again dropped in late 1970's
+- I was curious why such a change might happen so plotted the population for these years. It seems that the population for both countries increased at a steady rate over the years.
+```{r}
+gapminder %>%
+  filter(country %in% c("Libya", "Gabon")) %>%
+  group_by(country) %>%
+  ggplot(aes(y = gdpPercap, x= year, colour = country)) + 
+  geom_line(size = 1) + 
+  geom_point(aes(size = pop)) + 
+  theme_minimal()
+```
+
+I was curious about this so looked at a little history:
+
+* 1951: Libya declared its independence as the United Kingdom of Libya
+* 1959: discovery of significant oil reserves **of course - oil**
+* 1969: a group of rebel military officers led by Muammar Gaddafi launched a coup d'état against King Idris, which became known as the Al Fateh Revolution
+* 1977: The [Chadian–Libyan conflict](https://en.wikipedia.org/wiki/Chadian%E2%80%93Libyan_conflict) & the [Libyan-Egyptian War](https://en.wikipedia.org/wiki/Libyan%E2%80%93Egyptian_War) **of course - war**
+
+For Gabon: 
+
+- 1960: The territories of French Equatorial Africa became independent **freedom from France**
+- 1970's: Economic problems
+
+Is it a similar story for Asia?
+Looks like it might be Kuwait in this case which seems to have a similar pattern of high GDP per capita in the 60's and 70's, likely driven by oil sales.
+
+```{r}
+gapminder %>%
+  group_by(continent) %>%
+  arrange(desc(gdpPercap)) %>%
+  filter(continent == "Asia") %>%
+  head() %>%
+  kable("markdown")
+```
+
+
+
+#### Task 3
+
+How is life expectancy changing over time on different continents?
+
+Life Expectancy seems to be increasing over the years in every continent. In order to look at this I computed increase in life expectancy every year measured to see if there is anything interesting here.
+
+- In 1957 the increase in life expectancy since the previous measure was the highest in Asia
+- Except for a few years in Africa (1997 & 2002) life expectancy has increased every year and in every continent
+
+```{r}
+data2 <- gapminder %>%
+  group_by(country) %>%
+  mutate(lifeExpincrease = lifeExp - lag(lifeExp)) %>%
+  filter (!is.na(lifeExpincrease)) %>%
+  group_by(continent,year) %>%
+  summarize(lifeExpincrease = mean(lifeExpincrease)) %>%
+  arrange(year)
+data2
+```
+The following figure shows how life expectancy has increased across the years. It also illustrates how it has flattened out in the 1990's in Africa
+
+```{r}
+gapminder %>%
+  group_by(continent, year) %>%
+  ggplot(aes(y = lifeExp, x = year, colour = continent)) + 
+  geom_jitter(alpha = .5) +
+  geom_smooth(method = "loess", size = 1) + 
+  theme_minimal()
+  
+```
+
+```{r}
+ggplot(data2, aes(x= year, y = lifeExpincrease, colour = continent)) + 
+  geom_point() + 
+  geom_line() + 
+  theme_minimal() + 
+  labs(y = "Increase in life expectancy in years", 
+       title = "Change in Life Expectancy over the Years",
+       subtitle = "Has life expectancy always gone up?")
+```
+I saw this interesting violin plot option and thought I would try it on life expectancy as it reminded me of the demography plots we would see in geography.
+
+It shows that life expectancy has much wider ranges in Africa and Asia than in most continents and that the fattest portion (the mode) is lowest in Africa. I think this is a nice way of representing the life expectancy data 
+```{r}
+gapminder %>%
+  group_by(continent) %>%
+  ggplot(aes(y = lifeExp, x = continent)) + 
+  geom_violin(scale = "area", aes(fill = continent))
+```
+
+
+
+#### Task 4
+
+Report the absolute and/or relative abundance of countries with low life expectancy over time by continent: Compute some measure of worldwide life expectancy – you decide – a mean or median or some other quantile or perhaps your current age. Then determine how many countries on each continent have a life expectancy less than this benchmark, for each year.
+
+> How long would I have to live on each continent?
+
+
+
+#### Task 5
+
+Find countries with interesting stories. Open-ended and, therefore, hard. Promising but unsuccessful attempts are encouraged. This will generate interesting questions to follow up on in class.
+
+I think I partially did this with [Libya and Gabon](#libgab) but I also wanted to take a closer look at my country Bangladesh and see if there was an interesting story I could find.
+
+First let's create a data frame with only bangladesh in it
+```{r}
+bd <- gapminder %>%
+  filter(country == "Bangladesh") %>%
+  mutate(popmil = pop/10^6, gdpcap = gdpPercap/10)
+head(bd)
+```
+
+We can then plot some graphs related to this:
+
+```{r}
+ggplot(bd) + 
+  geom_line(aes(x = year, y = popmil), 
+            size = 1, 
+            colour = "dark green") +
+  geom_text(data = filter(bd, year == 2007), 
+        aes(x= year, y= popmil, label = "Population"), 
+        colour = "dark green") +
+  geom_line(aes(x= year, y= gdpcap), 
+            size = 1, 
+            colour = "dark red") + 
+  geom_text(data = filter(bd, year == 2007), 
+        aes(x= year, y= gdpcap, label = "GDP Per Capita"), 
+        colour = "dark red") + 
+  geom_vline(xintercept = 1971)
+
+```
+
+
+
+
