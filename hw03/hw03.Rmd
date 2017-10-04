@@ -3,8 +3,7 @@ title: "Homework 03: Use dplyr to manipulate and explore data (also use ggplot2)
 author: "RH"
 date: "September 27, 2017"
 output: 
-  html_document: 
-    keep_md: yes
+  github_document: 
     toc: true
     toc_depth: 5
 ---
