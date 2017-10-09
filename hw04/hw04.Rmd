@@ -1,0 +1,46 @@
+---
+title: "Homework 04: Tidy data and joins"
+author: "RH"
+date: "October 8, 2017"
+output:  github_document: 
+    toc: true
+    toc_depth: 5
+---
+
+
+The goal of this homework is to solidify your data wrangling skills by working some realistic problems in the grey area between data aggregation and data reshaping.
+You can find the instructions for this assignment [here](http://stat545.com/hw04_tidy-data-joins.html)
+
+```{r setup, include=FALSE}
+## Loading libraries
+library(tidyverse)
+library(gapminder)
+library(knitr)
+
+```
+
+
+# Choose your own adventure:
+
+## Data reshaping
+
+Activity #2
+
+Make a tibble with one row per year and columns for life expectancy for two or more countries.
+Use knitr::kable() to make this table look pretty in your rendered homework.
+Take advantage of this new data shape to scatterplot life expectancy for one country against that of another.
+
+Activity #3
+
+Compute some measure of life expectancy (mean? median? min? max?) for all possible combinations of continent and year. Reshape that to have one row per year and one variable for each continent. Or the other way around: one row per continent and one variable per year.
+Use knitr::kable() to make these tables look pretty in your rendered homework.
+Is there a plot that is easier to make with the data in this shape versis the usual form? If so (or you think so), try it! Reflect.
+
+
+## Data Joining
+
+Activity #1
+
+Create a second data frame, complementary to Gapminder. Join this with (part of) Gapminder using a  dplyr join function and make some observations about the process and result. Explore the different types of joins. Examples of a second data frame you could build:
+One row per country, a country variable and one or more variables with extra info, such as language spoken, NATO membership, national animal, or capitol city. If you really want to be helpful, you could attempt to make a pull request to resolve this issue, where I would like to bring ISO country codes into the gapminder package.
+One row per continent, a continent variable and one or more variables with extra info, such as northern versus southern hemisphere.
