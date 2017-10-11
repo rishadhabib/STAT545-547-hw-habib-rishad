@@ -2,9 +2,12 @@
 title: "Homework 04: Tidy data and joins"
 author: "RH"
 date: "October 8, 2017"
-output:  github_document: 
+output:  
+  github_document: 
     toc: true
     toc_depth: 5
+
+
 ---
 
 
@@ -30,11 +33,39 @@ Make a tibble with one row per year and columns for life expectancy for two or m
 Use knitr::kable() to make this table look pretty in your rendered homework.
 Take advantage of this new data shape to scatterplot life expectancy for one country against that of another.
 
-Activity #3
 
-Compute some measure of life expectancy (mean? median? min? max?) for all possible combinations of continent and year. Reshape that to have one row per year and one variable for each continent. Or the other way around: one row per continent and one variable per year.
-Use knitr::kable() to make these tables look pretty in your rendered homework.
-Is there a plot that is easier to make with the data in this shape versis the usual form? If so (or you think so), try it! Reflect.
+```{r}
+#first let's create a new dataset with our 2 countries, Bangladesh and Canada
+bdcan <- gapminder %>%
+      filter(country %in% c("Bangladesh", "Canada")) %>%
+      select(year, country, lifeExp) %>%             # selecting only interested values
+      spread(key = "country", value = "lifeExp") 
+      
+#let's have a look at this data, we should have 24 observations
+knitr::kable(bdcan, format = "markdown", digits = 2)
+```
+
+```{r}
+# and now let's plot the data 
+ ggplot(bdcan, aes(x = year, legend = Bangladesh)) + 
+  geom_point(aes(y = Bangladesh), colour = "dark blue") + 
+    geom_text(data = filter(bdcan, year == 2007), 
+        aes(x= year, y= Bangladesh, label = "Bangladesh"), 
+        colour = "dark blue",
+        nudge_x = -3, nudge_y = 2) + 
+  geom_point(aes (y = Canada), colour = "red") + 
+    geom_text(data = filter(bdcan, year == 2007), 
+        aes(x= year, y= Canada, label = "Canada"), 
+        colour = "red",
+        nudge_x = -3, nudge_y = 2) + 
+
+  
+  labs(title = "Life Expectancy of Bangladesh and Canada",
+       x = "year", 
+       y = "Life expectancy") + 
+  theme_minimal()
+```
+
 
 
 ## Data Joining

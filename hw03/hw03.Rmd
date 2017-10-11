@@ -189,7 +189,7 @@ gapminder %>%
   mutate(lifeExpincrease = lifeExp - lag(lifeExp)) %>%
   arrange (lifeExpincrease) %>%
   head() %>%
-  kable()
+  kable(digits=1)
 ```
 
 In 1992, the average life expectancy fell by 52 years in Rwanda. This is likely the result of the [genocide in Rwanda](https://en.wikipedia.org/wiki/Rwandan_genocide) which started in 1990 and is estimated to have killed about 1 million people
@@ -214,7 +214,7 @@ bd <- gapminder %>%
   filter(country == "Bangladesh") %>%
   mutate(popmil = pop/10^6, gdpcap = gdpPercap/10)
 bd %>% 
-  kable("markdown")
+  kable("markdown", digits=1)
 ```
 
 We can then plot a graph showing the information above:
