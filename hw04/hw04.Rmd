@@ -75,3 +75,51 @@ Activity #1
 Create a second data frame, complementary to Gapminder. Join this with (part of) Gapminder using a  dplyr join function and make some observations about the process and result. Explore the different types of joins. Examples of a second data frame you could build:
 One row per country, a country variable and one or more variables with extra info, such as language spoken, NATO membership, national animal, or capitol city. If you really want to be helpful, you could attempt to make a pull request to resolve this issue, where I would like to bring ISO country codes into the gapminder package.
 One row per continent, a continent variable and one or more variables with extra info, such as northern versus southern hemisphere.
+
+I selected the first 10 questions in the pew research survey on global religious restrictions rather than creating my own dataset. We'll focus on the following 2 index variables:
+
+- GRI: Government Restrictions Index based on 20 indicators of ways that national and local governments restrict religion, including through coercion and force.
+- SHI: Social Hostilities Index based on 13 indicators of ways in which private individuals and social groups infringe upon religious beliefs and practices, including religiously biased crimes, mob violence and efforts to stop particular religious groups from growing or operating. 
+
+```{r}
+setwd("F:/Documents/UBC/R & other codes/stat545/STAT545-hw-habib-rishad/hw04/data/")
+pewdata <- read.csv("global religious restrictions.csv")
+
+# let's change the country and year column names
+pewdata <- rename(pewdata, country = Ctry_EditorialName)
+pewdata <- rename(pewdata, year = Question_Year)
+head(pewdata)
+```
+
+The pewdata contains country and year names like the gapminder data. However they only have data from 2007 while gapminder only has data from 2007. So, inner_join will be used to join the data together as it returns all rows from x where there are matching values in y, and all columns from x and y.
+
+```{r}
+pewgap <- inner_join(gapminder, pewdata)
+head(pewgap) %>%
+  kable(digits = 2)
+```
+
+We can plot our new data and show the government restriction index on the y axis and gdp per capita on the x axis.
+
+This shows that most continents have a wide range of government restrictions. Although some continents seem to have higher GDP per capita than others, they still have countries with restrictive governments. I plotted a horizontal line at the scale midpoint for GRI which shows that surprisingly all countries in the Americas have low restrictive governments. Asia and Africa on the other hand have about 50:50 countries below and above the midpoint.
+```{r}
+pewgap %>%
+  select (country, continent, gdpPercap, pop, GRI, SHI) %>%
+  ggplot(aes(x = gdpPercap, y = GRI, colour = continent)) + 
+  geom_point(size = 3, alpha = .5) + 
+  facet_wrap(~continent, scales = "free") + 
+  scale_x_continuous(breaks = c(10000, 20000, 30000, 40000, 50000), labels = c("10k", "20k", "30k", "40k", "50k")) + 
+  geom_hline(yintercept = 5, colour = "grey", alpha = .7)+
+  theme_minimal()
+  
+```
+
+We could also try a different join function such as left_join
+```{r}
+head(left_join(pewdata, gapminder)) %>%
+  kable(digits = 2)
+```
+
+This leaves us with a lot of NA values as only 2007 is a common year. Inner join is a more appropriate option.
+
+
