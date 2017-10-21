@@ -18,5 +18,10 @@ GitHub repository for STAT 545A homework submissions
   + [HW 04 R markdown file](hw04/hw04.Rmd)
   + [HW 04 markdown html file](hw04/hw04.md)
   
+- 5th homework submission - [hw05](hw05)
+  + [Readme file](hw05/README.md)
+  + [HW 05 R markdown file](hw05/hw05.Rmd)
+  + [HW 05 markdown html file](hw05/hw05.md)
+
 
 ![How I do homework =P](https://i.pinimg.com/originals/08/0f/4c/080f4c345ee2595b70b2ec4cdfcf1980.jpg)
