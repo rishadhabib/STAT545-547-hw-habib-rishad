@@ -130,6 +130,6 @@ ggsave("../hw05/hw05_files/dropOceania.pdf",
 ```
 
 
-
+![dropOceania](https://github.com/rishadhabib/STAT545-hw-habib-rishad/tree/master/hw05/hw05_files/dropOceania.pdf)
 
 
