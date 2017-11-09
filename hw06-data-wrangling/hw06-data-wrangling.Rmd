@@ -1,0 +1,22 @@
+---
+title: 'Homework 06: Data wrangling wrap up'
+author: "RH"
+date: "November 8, 2017"
+output:  
+  github_document: 
+    toc: true
+    toc_depth: 5
+---
+
+
+```{r setup, include=FALSE}
+## Loading libraries
+library(tidyverse)
+library(gapminder)
+library(knitr)
+
+```
+
+Pick (at least) two of the six (numbered) topics below and do one of the exercise prompts listed, or something comparable using your dataset of choice.
+
+
