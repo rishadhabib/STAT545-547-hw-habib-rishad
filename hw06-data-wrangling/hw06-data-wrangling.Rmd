@@ -3,7 +3,7 @@ title: 'Homework 06: Data wrangling wrap up'
 author: "RH"
 date: "November 8, 2017"
 output:  
-  html_document: 
+  github_document: 
     toc: true
     toc_depth: 5
 ---
