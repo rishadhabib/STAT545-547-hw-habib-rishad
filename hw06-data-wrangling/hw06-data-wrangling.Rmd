@@ -4,9 +4,10 @@ author: "RH"
 date: "November 8, 2017"
 always_allow_html: yes
 output:  
-  github_document: 
+  html_document: 
     toc: true
     toc_depth: 5
+    keep_md: yes
 ---
 
 
