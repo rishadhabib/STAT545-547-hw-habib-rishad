@@ -127,24 +127,78 @@ Have three or more vowels in a row. - "(a|o|e|i|u)++"
 
 1. Describe, in words, what these expressions will match:
 
-(.)\1\1						- same letter repeated 3 times
-"(.)(.)\\2\\1"				- 
-(..)\1 						- 
-"(.).\\1.\\1"
-"(.)(.)(.).*\\3\\2\\1"
-
-2. Construct regular expressions to match words that:
-
-Start and end with the same character.
-
-Contain a repeated pair of letters (e.g. “church” contains “ch” repeated twice.)
-
-Contain one letter repeated in at least three places (e.g. “eleven” contains three “e”s.)
-
-
-
-
+(.)\1\1						- same letter repeated 3 times 	- e.g. aaa
+"(.)(.)\\2\\1"				- inverted letters				- e.g. abba 
+(..)\1 						- two letters repeated			- e.g. abab
 
 
 
 ### 2. Writing functions
+
+If you plan to complete the homework where we build an R package, write a couple of experimental functions exploring some functionality that is useful to you in real life and that might form the basis of your personal package.
+
+Sometimes for external datasets I have a folder with many separate csv files, one for each time period in which a measurement was made. For instance it might be for each day, week, month or year. It would be useful for me to be able to find and load all csv files in a folder.
+
+Function to return all files of certain type in a folder: 
+
+```{r}
+# define function: ---------
+find.files <- function(filepath, filetype="csv"){
+      # inputs: full filepath in R format, specified filetype (e.g. "csv" is the default)
+      
+      require("dplyr")
+      setwd(filepath)
+      
+      files.df <- data.frame(file=(list.files(recursive = TRUE)))
+      files.df <- mutate(files.df, 
+                         file=as.character(file), 
+                         type=sapply(file, 
+                                     function(x){
+                                           splitname <- strsplit(x, split="\\.") %>% 
+                                                 unname %>% unlist 
+                                           l <- length(splitname)
+                                           return(splitname[l])
+                                     }) %>% unname 
+                         )
+      
+      if(is.na(filetype)==TRUE) {
+            return(files.df)
+      } else {
+            return(filter(files.df, 
+                          type==filetype))
+      }
+      
+}
+```
+
+
+
+```{r}
+# test function:
+all.files <- find.files("F:/Documents/UBC/R & other codes/stat545/STAT545-hw-habib-rishad")
+str(all.files)
+head(all.files)
+write.table(all.files, sep="\t", row.names=FALSE) 
+
+
+text.files <- find.files("F:/Documents/UBC/R & other codes/stat545/STAT545-hw-habib-rishad", "csv")
+str(text.files)
+head(text.files)
+```
+
+
+
+
+
+```{r}
+# read all the text files into 1 file:
+# setwd("F:/Documents/UBC/R & other codes/stat545/STAT545-hw-habib-rishad")
+# lapply(text.files$file, read.table)
+```
+
+
+### Reporting my process
+
+I started out this homework like the homeworks in stat 545. I found it a lot more challenging though and thought the outline was quite broad which made choosing a specific task to do diffcult. 
+
+I had quite a bit of difficulty making the markdown output file show up properly, particularly using the str_view() function; the html would look fine but the markdown had issues I couldn't solve.
