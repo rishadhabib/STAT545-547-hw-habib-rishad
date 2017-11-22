@@ -24,4 +24,16 @@ GitHub repository for STAT 545A homework submissions
   + [HW 05 markdown html file](hw05/hw05.md)
 
 
+- 6th homework submission - [hw06](hw06-data-wrangling)
+  + [Readme file](hw06-data-wrangling/README.md)
+  + [HW 06 markdown file](hw06-data-wrangling/hw06-data-wrangling.md)
+  
+- 7th homework submission - [hw07](hw07-automation)
+  + [Readme file](hw07-automation/README.md)
+  
+- 8th homework submission - [hw08](hw08-shinyapp)
+  + [Readme file](hw08-shinyapp/README.md)
+  + [Shiny App]()
+
+
 ![How I do homework =P](https://i.pinimg.com/originals/08/0f/4c/080f4c345ee2595b70b2ec4cdfcf1980.jpg)

@@ -1,0 +1,1581 @@
+Nation_fk,Region5,Region6,Ctry_EditorialName,Question_Year,GRI,SHI,GRI_Q_10,GRI_Q_9,GRI_Q_8,GRI_Q_7,GRI_Q_6,GRI_Q_5,GRI_Q_4,GRI_Q_3,GRI_Q_2,GRI_Q_1
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2007,5.3,8.5,0,.5,1,1,.5,0,.67,.67,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2008,5.3,7.8,0,.5,1,1,.5,.5,.67,.67,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2009,6.5,8.6,1,.5,1,1,.5,0,1,1,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2010,8,7.7,1,.5,1,1,.5,0,1,.67,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2011,8,7.4,1,.5,1,1,.5,0,1,1,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2012,8.1,9.6,1,.5,1,1,.5,0,1,1,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2013,8,7.8,1,.5,1,1,.5,0,1,1,.67,.5
+1,Asia-Pacific,Asia-Pacific,Afghanistan,2014,6.5,7.7,0,.5,1,1,.5,0,1,1,.67,.5
+2,Europe,Europe,Albania,2007,.8,.2,0,.5,0,0,0,0,0,0,0,0
+2,Europe,Europe,Albania,2008,1.9,.7,1,.5,0,0,0,0,.33,.33,0,0
+2,Europe,Europe,Albania,2009,.7,0,1,0,0,0,0,0,0,0,0,0
+2,Europe,Europe,Albania,2010,1.3,.2,1,0,0,0,0,0,0,0,0,0
+2,Europe,Europe,Albania,2011,1.4,0,1,0,0,0,0,0,.67,0,0,0
+2,Europe,Europe,Albania,2012,1.5,0,1,0,0,0,0,0,.67,0,0,0
+2,Europe,Europe,Albania,2013,2.2,.3,1,0,0,0,0,0,.67,0,0,0
+2,Europe,Europe,Albania,2014,1,.6,0,0,0,0,0,0,0,0,0,0
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2007,5.6,3.6,0,.5,1,1,.5,.5,1,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2008,6.8,5.3,1,.5,1,1,.5,.5,1,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2009,7.3,5.3,1,.5,1,1,1,1,.67,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2010,6.9,5.4,1,.5,1,0,.5,1,.67,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2011,7.5,5.3,1,.5,1,1,.5,1,.67,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2012,6.9,6.5,1,.5,1,1,.5,1,1,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2013,6.1,5.9,1,.5,1,0,.5,1,.67,.67,1,1
+3,Middle East-North Africa,Middle East-North Africa,Algeria,2014,5.8,6.6,1,.5,1,0,.5,1,.67,.67,1,1
+5,Europe,Europe,Andorra,2007,.9,0,0,0,0,0,0,0,0,.33,.67,0
+5,Europe,Europe,Andorra,2008,.8,.3,0,0,0,0,0,0,0,0,.67,0
+5,Europe,Europe,Andorra,2009,.7,0,0,0,0,0,0,0,0,0,.67,0
+5,Europe,Europe,Andorra,2010,.7,0,0,0,0,0,0,0,0,0,.67,0
+5,Europe,Europe,Andorra,2011,.7,0,0,0,0,0,0,0,0,0,.67,0
+5,Europe,Europe,Andorra,2012,1.2,0,0,.5,0,0,0,0,.33,0,.67,0
+5,Europe,Europe,Andorra,2013,1.2,0,0,.5,0,0,0,0,.33,0,.67,0
+5,Europe,Europe,Andorra,2014,.9,.3,0,0,0,0,0,0,.33,0,.67,0
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2007,3.3,3.7,0,0,0,0,0,0,1,.33,.67,.5
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2008,4,2.4,0,0,1,0,0,0,.33,.33,.67,.5
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2009,2.4,1.2,0,0,1,0,0,0,0,.33,.67,.5
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2010,3.7,2.3,0,0,1,0,.5,0,.33,.33,.33,0
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2011,4.9,2.1,0,0,1,0,.5,0,1,.67,.33,0
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2012,4.1,3.6,0,0,1,0,0,0,1,.67,.33,0
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2013,5,2.9,0,0,1,0,0,0,1,.67,.33,0
+6,Sub-Saharan Africa,Sub-Saharan Africa,Angola,2014,2.7,1,0,0,1,0,0,0,.67,.33,.33,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2007,1.1,.3,0,0,0,0,0,0,.33,0,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2008,1.1,.3,0,0,0,0,0,0,.33,0,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2009,1.4,.6,0,0,0,0,0,0,1,0,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2010,1.2,.4,0,0,0,0,0,0,.33,.33,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2011,2.3,.4,0,0,0,0,0,0,1,.33,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2012,2.3,.4,0,0,0,0,0,0,1,.33,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2013,2.3,.1,1,0,0,0,0,0,1,.33,.67,0
+8,Americas,Latin America-Caribbean,Antigua and Barbuda,2014,1.9,0,1,0,0,0,0,0,1,.33,.67,0
+9,Americas,Latin America-Caribbean,Argentina,2007,1.7,.6,0,0,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2008,1.7,1,0,0,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2009,2.5,1,0,.5,1,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2010,1.6,.5,0,.5,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2011,1.9,1.4,0,.5,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2012,1.9,1.9,0,.5,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2013,2,1.4,0,.5,0,0,0,0,0,0,.67,.5
+9,Americas,Latin America-Caribbean,Argentina,2014,2.5,1.4,0,.5,0,0,0,1,0,0,.67,.5
+10,Asia-Pacific,Asia-Pacific,Armenia,2007,3.4,2.7,0,.5,1,0,1,0,.33,.33,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2008,4.5,2.4,0,.5,1,0,1,0,.33,.67,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2009,4.2,3.2,0,0,1,0,1,0,.67,.33,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2010,4.7,4.3,0,.5,1,0,1,.5,.67,.67,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2011,5.9,4.6,0,0,1,1,1,.5,.67,.67,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2012,6,4.7,0,0,1,1,1,.5,.67,.67,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2013,5.2,5.3,0,0,1,1,1,0,.67,.67,.33,0
+10,Asia-Pacific,Asia-Pacific,Armenia,2014,4.5,4,0,0,1,1,.5,0,.33,.67,.33,0
+12,Asia-Pacific,Asia-Pacific,Australia,2007,1.3,1.8,0,0,0,0,0,1,.33,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2008,.5,1.9,0,0,0,0,0,1,0,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2009,.7,1.8,0,0,0,0,0,0,0,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2010,1.7,2.1,1,0,0,0,0,.5,0,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2011,2.2,2.2,1,0,0,0,0,.5,.67,.33,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2012,1.6,2.9,1,0,0,0,0,.5,.67,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2013,1.4,1.4,1,0,0,0,0,.5,.33,0,0,0
+12,Asia-Pacific,Asia-Pacific,Australia,2014,1,2.2,0,0,0,0,0,1,0,0,0,0
+13,Europe,Europe,Austria,2007,2.6,1.1,0,0,0,0,0,0,0,.33,.67,.5
+13,Europe,Europe,Austria,2008,3.6,1.7,0,.5,1,0,0,0,.33,.33,.67,.5
+13,Europe,Europe,Austria,2009,3.3,1.7,0,.5,0,0,0,.5,.67,.33,.67,.5
+13,Europe,Europe,Austria,2010,3.2,1.9,0,.5,0,0,0,.5,.33,.33,.67,.5
+13,Europe,Europe,Austria,2011,2.5,2.9,0,.5,0,0,0,0,0,.33,.67,.5
+13,Europe,Europe,Austria,2012,3.8,3,1,.5,0,0,0,0,.67,.33,.67,.5
+13,Europe,Europe,Austria,2013,3.1,1.9,1,.5,0,0,0,0,.33,.33,.67,.5
+13,Europe,Europe,Austria,2014,3.4,1.9,1,.5,0,0,0,0,.33,.33,.67,.5
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2007,5,2.9,0,.5,1,0,1,0,.67,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2008,5.5,1.9,1,.5,1,0,1,0,.67,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2009,5.1,2.8,1,1,1,0,1,.5,.67,.33,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2010,6.9,2.2,1,.5,1,0,1,.5,1,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2011,6.5,4,1,1,1,0,1,.5,1,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2012,7.3,4.7,1,1,1,0,1,1,1,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2013,7.3,3.4,1,1,1,0,1,1,1,.67,.67,0
+14,Asia-Pacific,Asia-Pacific,Azerbaijan,2014,7.5,4.4,1,1,1,0,1,1,1,.67,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2007,1.4,.5,0,0,0,0,0,0,.33,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2008,1,.3,0,0,0,0,0,0,.33,0,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2009,2.3,0,0,0,0,0,0,0,1,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2010,3,0,1,0,0,0,0,0,1,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2011,2.8,0,1,0,0,0,0,0,1,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2012,3.3,0,1,0,1,0,0,0,1,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2013,3,0,1,0,0,0,0,0,1,.33,.67,0
+15,Americas,Latin America-Caribbean,Bahamas,2014,3.6,0,1,0,1,0,0,0,1,.33,.67,0
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2007,4.3,3,0,.5,1,0,.5,1,.33,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2008,3.7,1.9,0,0,1,0,.5,.5,.33,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2009,4.7,3.3,0,0,1,1,.5,.5,.33,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2010,4.2,3.7,0,0,1,0,0,0,.67,.33,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2011,6.2,3.9,0,.5,1,1,0,.5,1,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2012,6.5,5.3,0,.5,1,1,0,.5,1,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2013,6.5,3.5,0,0,1,1,0,.5,1,.67,.67,.5
+16,Middle East-North Africa,Middle East-North Africa,Bahrain,2014,6.2,3,0,0,1,1,0,.5,1,.67,.67,.5
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2007,4,8.300000000000001,0,.5,1,0,.5,0,.33,.67,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2008,5.1,6.6,1,.5,1,1,0,0,.33,.67,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2009,5.1,8.300000000000001,1,.5,1,1,0,0,.33,.33,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2010,5.6,8.199999999999999,1,0,1,1,.5,0,.33,.33,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2011,6.1,6.3,1,.5,1,1,.5,.5,.33,.67,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2012,5.3,7.6,1,0,1,1,.5,.5,.33,.67,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2013,5.2,8.699999999999999,0,0,1,1,.5,.5,.67,.67,.67,0
+17,Asia-Pacific,Asia-Pacific,Bangladesh,2014,4.3,5.8,0,0,1,1,1,0,.33,.67,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2007,.8,.3,0,0,0,0,0,0,.33,0,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2008,.8,.3,0,0,0,0,0,0,.33,0,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2009,.8,.4,0,0,0,0,0,0,.33,0,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2010,.8,.4,0,0,0,0,0,0,.33,0,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2011,1.4,.1,0,0,0,0,0,0,1,0,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2012,1.6,.4,0,0,0,0,0,0,1,.33,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2013,1.5,.1,0,0,0,0,0,0,1,.33,.67,0
+18,Americas,Latin America-Caribbean,Barbados,2014,1.5,.4,0,0,0,0,0,0,1,.33,.67,0
+19,Europe,Europe,Belarus,2007,5.9,1.4,0,.5,1,0,.5,.5,1,.33,.67,0
+19,Europe,Europe,Belarus,2008,6.3,2.4,0,.5,1,0,1,0,1,.67,.67,0
+19,Europe,Europe,Belarus,2009,6.4,3.1,0,.5,1,0,1,.5,.67,.67,.67,0
+19,Europe,Europe,Belarus,2010,6.8,1.4,0,.5,1,0,1,.5,1,.67,.67,0
+19,Europe,Europe,Belarus,2011,6.3,1.8,0,.5,1,0,1,1,.67,.67,.67,0
+19,Europe,Europe,Belarus,2012,6.3,1.3,0,.5,1,0,1,1,1,.67,.67,0
+19,Europe,Europe,Belarus,2013,6.3,1.2,0,.5,1,0,1,1,1,.67,.67,0
+19,Europe,Europe,Belarus,2014,5.8,.5,0,.5,1,0,1,1,1,.67,.67,0
+20,Europe,Europe,Belgium,2007,4,.9,1,0,0,0,0,1,.67,.33,.67,.5
+20,Europe,Europe,Belgium,2008,3.8,1.8,1,0,0,0,0,0,1,.33,.67,.5
+20,Europe,Europe,Belgium,2009,3.5,1.7,1,0,1,0,0,0,0,.33,.67,.5
+20,Europe,Europe,Belgium,2010,3.7,2.2,1,0,0,0,0,0,.67,.33,.67,.5
+20,Europe,Europe,Belgium,2011,3.9,2.4,1,0,0,0,0,0,1,.33,.67,.5
+20,Europe,Europe,Belgium,2012,4.7,3.3,1,0,0,0,.5,0,1,.33,.67,.5
+20,Europe,Europe,Belgium,2013,3.8,1.6,1,0,0,0,.5,0,1,.33,.67,.5
+20,Europe,Europe,Belgium,2014,3.5,1.5,1,0,0,0,0,0,1,.33,.67,.5
+21,Americas,Latin America-Caribbean,Belize,2007,1.3,0,0,.5,0,0,0,0,0,.33,.67,0
+21,Americas,Latin America-Caribbean,Belize,2008,.9,0,0,0,0,0,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2009,.7,0,0,0,0,0,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2010,.8,0,0,0,0,0,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2011,1.2,0,0,0,0,1,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2012,1.4,0,0,0,0,1,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2013,1.1,0,0,.5,0,0,0,0,0,0,.67,0
+21,Americas,Latin America-Caribbean,Belize,2014,1.2,.8,0,.5,0,0,0,0,0,0,.67,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2007,.3,0,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2008,.3,1.7,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2009,.3,0,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2010,.5,.4,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2011,.5,1.2,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2012,.3,2,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2013,.3,.4,0,0,0,0,0,0,0,0,.33,0
+22,Sub-Saharan Africa,Sub-Saharan Africa,Benin,2014,.4,.3,0,0,0,0,0,0,0,0,.33,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2007,4.4,1.9,0,.5,0,1,1,.5,.67,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2008,4.5,1.2,1,.5,0,0,1,0,.67,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2009,5,.5,1,.5,0,1,.5,.5,.67,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2010,3.6,0,0,0,1,0,.5,.5,1,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2011,4.4,.9,0,0,1,1,.5,.5,1,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2012,5.1,1.7,0,.5,0,1,1,.5,1,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2013,5,1.8,0,0,0,1,1,1,1,.67,.67,0
+24,Asia-Pacific,Asia-Pacific,Bhutan,2014,4.5,2.6,0,0,0,1,.5,.5,1,.67,.67,0
+25,Americas,Latin America-Caribbean,Bolivia,2007,1,0,0,0,0,0,0,0,0,.33,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2008,.9,1.3,0,0,0,0,0,0,0,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2009,.7,.4,0,0,0,0,0,0,0,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2010,1,.3,0,0,0,0,0,0,0,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2011,1.1,.8,0,0,1,0,0,0,0,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2012,1.4,0,0,0,1,0,0,0,.33,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2013,1.5,0,0,0,1,0,0,0,0,0,0,0
+25,Americas,Latin America-Caribbean,Bolivia,2014,1.9,.3,0,0,1,0,0,0,0,0,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2007,1.5,2.4,0,0,0,0,0,0,.67,.67,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2008,1.9,2.8,0,0,0,0,0,0,.67,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2009,1.6,3.1,0,0,0,0,0,0,0,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2010,2,2.6,0,0,0,0,0,0,0,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2011,2,3.4,0,0,0,0,0,0,.67,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2012,2.3,4.3,0,0,0,0,0,0,.67,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2013,2.3,4.2,0,0,0,0,0,0,.67,.33,0,0
+26,Europe,Europe,Bosnia-Herzegovina,2014,2,3,0,0,0,0,0,0,.67,.33,0,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2007,.9,.1,0,0,0,0,0,0,0,0,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2008,.8,.5,0,0,0,0,0,0,0,0,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2009,.6,0,0,0,0,0,0,0,0,0,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2010,1.2,0,0,0,0,0,0,0,.33,.33,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2011,.6,0,0,0,0,0,0,0,0,0,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2012,.5,.9,0,0,0,0,0,0,0,0,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2013,.7,0,0,0,0,0,0,0,0,.33,.67,0
+27,Sub-Saharan Africa,Sub-Saharan Africa,Botswana,2014,.8,.3,0,.5,0,0,0,0,0,0,.67,0
+28,Americas,Latin America-Caribbean,Brazil,2007,.4,.8,0,.5,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2008,.8,1.6,0,.5,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2009,1.1,1.7,0,.5,0,0,0,0,.33,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2010,1,3.3,0,.5,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2011,.4,3.5,0,.5,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2012,.6,2.8,0,0,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2013,.2,3.7,0,0,0,0,0,0,0,0,.33,0
+28,Americas,Latin America-Caribbean,Brazil,2014,.7,3.5,0,0,0,0,0,0,0,0,.33,0
+30,Asia-Pacific,Asia-Pacific,Brunei,2007,7.2,4.2,1,1,1,1,.5,0,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2008,6.2,1.7,1,0,1,0,.5,.5,1,1,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2009,5.4,1.8,1,0,1,0,.5,.5,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2010,6.5,3.1,1,.5,1,1,.5,1,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2011,6.8,3.1,1,0,1,1,.5,0,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2012,7,3.1,1,0,1,1,.5,.5,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2013,6.9,3.1,1,0,1,1,.5,.5,1,.67,.67,.5
+30,Asia-Pacific,Asia-Pacific,Brunei,2014,5.6,2.3,1,.5,1,1,.5,.5,.67,.67,.67,.5
+31,Europe,Europe,Bulgaria,2007,4,2.2,0,.5,1,0,.5,1,1,.67,.67,0
+31,Europe,Europe,Bulgaria,2008,5.9,3.2,1,.5,1,0,.5,1,1,.33,.67,0
+31,Europe,Europe,Bulgaria,2009,4,4,0,.5,1,0,.5,1,.67,.33,.67,0
+31,Europe,Europe,Bulgaria,2010,3.3,2.2,1,0,1,0,.5,.5,.33,.33,.67,0
+31,Europe,Europe,Bulgaria,2011,3.9,4.7,1,0,1,0,.5,0,.67,.33,.67,0
+31,Europe,Europe,Bulgaria,2012,5.2,4.4,1,.5,1,0,.5,.5,.67,.33,.67,0
+31,Europe,Europe,Bulgaria,2013,5.4,3.6,1,0,1,0,.5,1,1,.33,.67,0
+31,Europe,Europe,Bulgaria,2014,5.5,2.8,1,0,1,0,.5,1,1,.33,.67,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2007,.3,1.5,0,0,0,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2008,1.1,2.4,0,.5,1,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2009,.6,1.3,0,.5,0,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2010,1.3,1.5,0,0,1,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2011,.8,2,0,0,0,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2012,.8,2,0,0,1,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2013,1.3,3.1,0,.5,1,0,0,0,0,0,.33,0
+32,Sub-Saharan Africa,Sub-Saharan Africa,Burkina Faso,2014,.4,2.6,0,0,0,0,0,0,0,0,.33,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2007,.4,.9,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2008,.2,2.3,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2009,.2,.8,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2010,.7,2.2,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2011,.2,1.8,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2012,.2,.9,0,0,0,0,0,0,0,0,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2013,2.3,1,0,0,0,0,0,0,.67,.33,0,0
+33,Sub-Saharan Africa,Sub-Saharan Africa,Burundi,2014,2.9,1.5,0,0,1,0,0,0,.67,.33,0,0
+34,Asia-Pacific,Asia-Pacific,Cambodia,2007,2.9,.8,0,.5,0,0,1,1,.33,.33,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2008,2.9,.5,0,.5,0,0,1,0,.33,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2009,2.4,0,0,0,1,0,1,0,0,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2010,2.7,2.2,0,0,1,0,0,0,0,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2011,2.4,1.5,0,0,1,0,0,0,0,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2012,2.4,.6,0,0,1,0,0,0,0,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2013,2.2,.4,0,0,1,0,0,0,0,0,.67,.5
+34,Asia-Pacific,Asia-Pacific,Cambodia,2014,2.4,.4,0,0,1,0,0,0,0,0,.67,.5
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2007,1.1,1.4,0,0,0,0,0,0,.33,.33,0,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2008,.3,1.3,0,0,0,0,0,0,0,0,0,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2009,1.3,.4,0,0,0,0,0,0,1,0,0,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2010,.6,.4,0,0,0,0,0,0,0,0,0,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2011,2.2,1.3,0,0,0,0,0,0,1,.33,.33,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2012,1.3,1.3,0,0,0,0,0,0,1,.33,.33,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2013,1.8,.6,0,0,0,0,0,.5,1,0,.33,0
+35,Sub-Saharan Africa,Sub-Saharan Africa,Cameroon,2014,.6,1.4,0,0,0,0,0,0,0,0,.33,0
+36,Americas,North America,Canada,2007,1,1.2,0,0,1,0,0,0,.33,0,0,0
+36,Americas,North America,Canada,2008,1.6,2.1,1,0,1,0,0,0,.33,0,0,0
+36,Americas,North America,Canada,2009,1.3,1.5,1,0,1,0,0,0,0,0,0,0
+36,Americas,North America,Canada,2010,1.6,1.1,1,0,0,0,0,0,.33,0,0,0
+36,Americas,North America,Canada,2011,1.9,1.1,1,0,0,0,0,0,.33,.33,0,0
+36,Americas,North America,Canada,2012,1.9,1.3,1,0,1,0,0,0,.33,.33,0,0
+36,Americas,North America,Canada,2013,1.2,1.2,1,0,0,0,0,0,0,.33,0,0
+36,Americas,North America,Canada,2014,1.2,1.5,1,0,0,0,0,0,0,.33,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2007,.3,.1,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2008,.3,0,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2009,.3,0,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2010,.3,0,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2011,.3,0,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2012,.3,0,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2013,.3,.4,0,0,0,0,0,0,0,0,0,0
+37,Sub-Saharan Africa,Sub-Saharan Africa,Cape Verde,2014,.4,.4,0,0,0,0,0,0,0,0,0,0
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2007,3.7,3.3,0,0,1,0,0,0,0,.33,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2008,2.1,2.3,0,0,0,0,0,0,0,0,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2009,4.6,2.3,0,0,1,0,0,0,1,.33,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2010,4.5,4.5,0,0,0,0,0,0,1,.33,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2011,4.9,4.1,0,0,1,0,0,0,1,.33,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2012,4.7,4.5,0,0,1,0,0,0,1,.33,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2013,4.2,7.6,0,0,1,0,0,0,.67,.67,.67,.5
+39,Sub-Saharan Africa,Sub-Saharan Africa,Central African Republic,2014,2.3,6.9,0,0,1,0,0,0,0,.33,.67,.5
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2007,4.2,3.3,0,0,1,0,.5,.5,1,.67,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2008,3.7,3.2,0,0,0,0,.5,1,1,.67,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2009,3.8,.3,0,0,0,0,.5,1,1,.33,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2010,6,2.6,0,0,1,0,1,1,1,.67,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2011,5.5,2.3,0,0,1,0,1,1,1,.67,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2012,4.6,2.2,0,0,1,0,.5,1,1,.67,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2013,3,2.2,0,0,1,0,.5,.5,1,.33,.67,0
+40,Sub-Saharan Africa,Sub-Saharan Africa,Chad,2014,1.6,.6,0,0,1,0,0,0,0,.33,.67,0
+42,Americas,Latin America-Caribbean,Chile,2007,1.2,.4,0,0,0,0,0,0,0,.33,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2008,1.3,1,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2009,1.3,.8,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2010,1.3,1.8,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2011,1.6,1.8,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2012,1.3,2.3,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2013,1.6,1.2,0,0,0,0,0,0,0,0,.67,.5
+42,Americas,Latin America-Caribbean,Chile,2014,1.3,1.2,0,0,0,0,0,0,0,0,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2007,7.8,.9,0,.5,1,0,1,1,1,.67,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2008,7.7,2.7,1,.5,1,0,1,1,1,.67,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2009,8.199999999999999,3.3,1,1,1,0,1,1,1,.67,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2010,7.5,2,1,.5,1,0,1,1,1,.67,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2011,8.5,2.2,1,.5,1,1,1,1,1,1,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2012,8.6,3.6,1,1,1,1,1,1,1,1,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2013,9.1,4.4,1,1,1,1,1,1,1,1,.67,.5
+43,Asia-Pacific,Asia-Pacific,China,2014,8.6,3.3,1,1,1,1,1,1,1,1,.67,.5
+44,Americas,Latin America-Caribbean,Colombia,2007,1.8,3.3,0,.5,0,0,1,0,.33,.33,0,0
+44,Americas,Latin America-Caribbean,Colombia,2008,2.4,3.1,0,.5,1,0,1,0,0,.33,0,0
+44,Americas,Latin America-Caribbean,Colombia,2009,1.6,3.3,0,.5,1,0,0,0,.33,0,0,0
+44,Americas,Latin America-Caribbean,Colombia,2010,2.8,3.1,0,.5,0,1,1,0,.33,0,0,0
+44,Americas,Latin America-Caribbean,Colombia,2011,2.5,3.5,0,.5,1,1,.5,0,.33,.33,0,0
+44,Americas,Latin America-Caribbean,Colombia,2012,1.5,3.9,0,.5,0,0,.5,0,.33,.33,0,0
+44,Americas,Latin America-Caribbean,Colombia,2013,1.6,2.1,0,.5,0,0,.5,0,.33,.33,0,0
+44,Americas,Latin America-Caribbean,Colombia,2014,1.6,2.2,0,.5,0,0,.5,0,.33,.33,0,0
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2007,5.4,6.2,1,.5,1,1,.5,0,.33,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2008,3.3,5.1,0,.5,0,1,.5,0,.67,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2009,4.3,4.9,1,.5,0,1,.5,.5,1,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2010,3.6,1,0,1,0,1,.5,0,.33,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2011,3.9,1.4,0,1,0,1,.5,.5,.67,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2012,3.2,2.9,0,.5,0,1,.5,.5,.67,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2013,4,2.9,0,.5,0,1,.5,0,1,.67,.67,.5
+45,Sub-Saharan Africa,Sub-Saharan Africa,Comoros,2014,3.6,2.4,0,0,0,1,.5,0,1,.67,.67,.5
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2007,.7,.4,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2008,.5,.3,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2009,.7,.1,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2010,1,0,0,0,1,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2011,.5,.4,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2012,.7,.4,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2013,.7,0,0,0,0,0,0,0,0,0,.67,0
+46,Sub-Saharan Africa,Sub-Saharan Africa,Republic of the Congo,2014,1.1,0,0,0,1,0,0,0,0,0,.67,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2007,1.3,2.6,0,0,1,0,0,0,0,0,.33,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2008,2.1,4,0,0,0,0,0,0,.67,.33,.33,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2009,.7,3.1,0,0,0,0,0,0,0,0,.33,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2010,2.8,2.9,0,.5,1,0,0,1,.67,.33,.33,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2011,2.1,3.7,0,.5,0,0,0,0,0,0,.67,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2012,1.2,3.2,0,0,0,0,0,0,0,0,.67,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2013,1.1,2.3,0,0,0,0,0,0,0,0,.67,0
+47,Sub-Saharan Africa,Sub-Saharan Africa,Democratic Republic of the Congo,2014,1.2,1,0,.5,0,0,0,0,0,.33,.67,0
+49,Americas,Latin America-Caribbean,Costa Rica,2007,1,0,0,0,0,0,0,0,0,0,.67,.5
+49,Americas,Latin America-Caribbean,Costa Rica,2008,3,.8,0,.5,0,0,0,0,.67,0,.67,.5
+49,Americas,Latin America-Caribbean,Costa Rica,2009,2.1,.5,0,.5,0,0,0,0,0,0,.67,.5
+49,Americas,Latin America-Caribbean,Costa Rica,2010,2.6,.8,0,.5,0,0,0,0,.33,0,.67,.5
+49,Americas,Latin America-Caribbean,Costa Rica,2011,3.3,.5,0,.5,1,0,0,1,.67,.33,.67,0
+49,Americas,Latin America-Caribbean,Costa Rica,2012,3.1,.3,0,.5,1,0,0,0,.67,.33,.67,0
+49,Americas,Latin America-Caribbean,Costa Rica,2013,2.8,.1,0,.5,0,0,0,0,.67,.33,.67,0
+49,Americas,Latin America-Caribbean,Costa Rica,2014,2.3,.1,0,.5,0,0,0,0,.67,.33,.67,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2007,1.9,3.1,0,0,1,0,0,0,.33,.33,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2008,2.3,4.3,0,0,1,0,0,0,.33,0,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2009,2,.8,0,0,1,0,0,0,.33,0,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2010,2,3.7,0,0,0,0,0,0,.33,.33,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2011,3.7,4.9,1,0,1,0,0,0,.67,.67,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2012,1,3.5,0,0,0,0,0,0,.33,.33,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2013,.7,.8,0,0,0,0,0,0,0,0,.33,0
+50,Sub-Saharan Africa,Sub-Saharan Africa,Ivory Coast,2014,1.3,.4,0,0,0,0,0,0,0,.33,.33,0
+51,Europe,Europe,Croatia,2007,.7,2,0,0,0,0,0,0,0,.33,.33,0
+51,Europe,Europe,Croatia,2008,2.3,2.4,1,.5,0,0,0,0,0,.33,.33,0
+51,Europe,Europe,Croatia,2009,1.8,1.3,1,0,0,0,0,0,0,0,.33,0
+51,Europe,Europe,Croatia,2010,2.7,2.3,1,0,0,0,0,0,.33,.33,.33,0
+51,Europe,Europe,Croatia,2011,2.3,1.8,1,0,0,0,0,0,.33,.33,.33,0
+51,Europe,Europe,Croatia,2012,2.9,2.2,1,0,0,0,0,0,.33,.33,.33,0
+51,Europe,Europe,Croatia,2013,1.5,2.7,0,0,0,0,0,0,0,.33,.33,0
+51,Europe,Europe,Croatia,2014,1.4,2.2,0,0,0,0,0,0,0,.33,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2007,4.5,0,0,.5,1,0,1,1,.67,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2008,4.4,1.3,0,.5,1,0,.5,1,.67,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2009,4,1.3,0,.5,1,0,0,1,.67,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2010,4.8,.9,0,.5,1,0,0,1,1,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2011,5.3,1.5,0,.5,1,0,0,1,.67,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2012,5,.8,0,.5,1,0,0,1,.67,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2013,5.2,0,0,.5,1,0,.5,1,1,.67,.33,0
+52,Americas,Latin America-Caribbean,Cuba,2014,4.5,.5,0,.5,1,0,0,1,1,.67,.33,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2007,1.2,.9,0,.5,0,0,0,0,0,0,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2008,1.9,2.7,0,.5,0,0,1,0,0,.33,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2009,1.9,1.1,0,0,0,0,0,0,.33,0,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2010,2.8,3.8,0,.5,0,0,.5,0,.33,.33,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2011,2.6,5.2,0,.5,0,0,1,0,.33,.33,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2012,2.1,4,0,.5,0,0,.5,0,.33,.33,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2013,2.5,3.2,0,.5,0,0,.5,0,.67,.33,.67,0
+53,Asia-Pacific,Asia-Pacific,Cyprus,2014,2.6,2.8,0,.5,0,0,0,0,.67,.33,.67,0
+54,Europe,Europe,Czech Republic,2007,1,1.2,0,0,0,0,0,0,0,.33,0,0
+54,Europe,Europe,Czech Republic,2008,1.2,1.3,0,0,0,0,0,0,0,0,0,0
+54,Europe,Europe,Czech Republic,2009,2.2,1.3,0,.5,0,0,0,0,.67,.33,0,0
+54,Europe,Europe,Czech Republic,2010,1.1,1.3,0,0,0,0,0,0,0,0,0,0
+54,Europe,Europe,Czech Republic,2011,1.5,2.2,0,.5,0,0,0,0,0,0,0,0
+54,Europe,Europe,Czech Republic,2012,1.8,1.5,0,.5,0,0,0,0,.33,0,0,0
+54,Europe,Europe,Czech Republic,2013,1.1,2.7,0,0,0,0,0,0,0,0,0,0
+54,Europe,Europe,Czech Republic,2014,2.5,2,1,.5,0,0,0,0,0,0,0,0
+55,Europe,Europe,Denmark,2007,2.5,1.2,0,.5,0,0,0,0,0,.33,.67,.5
+55,Europe,Europe,Denmark,2008,2.4,3,0,.5,0,0,0,0,0,.33,.67,.5
+55,Europe,Europe,Denmark,2009,3.1,4.6,1,.5,0,0,0,0,0,0,.67,.5
+55,Europe,Europe,Denmark,2010,3.4,2.1,1,.5,0,0,1,0,.33,.33,.67,.5
+55,Europe,Europe,Denmark,2011,3.7,1.7,1,.5,0,0,1,0,.33,.33,.67,.5
+55,Europe,Europe,Denmark,2012,3.1,2,1,.5,0,0,0,0,.33,.33,.67,.5
+55,Europe,Europe,Denmark,2013,3.2,2.4,1,.5,0,0,.5,0,0,.33,.67,.5
+55,Europe,Europe,Denmark,2014,3.5,2.9,1,.5,0,0,.5,0,.67,.33,.67,.5
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2007,2.4,1.8,0,0,0,0,.5,0,.33,.33,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2008,.8,2.6,0,0,0,0,0,0,0,0,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2009,1.6,1.3,0,0,0,0,0,0,.67,.33,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2010,2.1,.5,0,0,1,0,0,0,.67,.33,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2011,2.6,.4,0,0,1,1,0,0,.67,.67,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2012,4.2,.4,0,.5,1,1,0,.5,.67,.67,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2013,5.1,1.2,0,.5,1,0,0,.5,.67,.67,.33,0
+56,Sub-Saharan Africa,Sub-Saharan Africa,Djibouti,2014,4,3,1,.5,1,0,.5,.5,1,.33,.33,0
+57,Americas,Latin America-Caribbean,Dominica,2007,.8,.3,0,0,0,0,0,0,.33,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2008,.9,.3,0,0,0,0,0,0,.33,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2009,1.1,.4,0,.5,0,0,0,0,.33,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2010,.9,.4,0,0,0,0,0,0,.33,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2011,1.3,.1,0,0,0,0,0,0,1,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2012,1.1,.1,0,0,0,0,0,0,1,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2013,1.3,0,0,0,0,0,0,0,1,0,.67,0
+57,Americas,Latin America-Caribbean,Dominica,2014,1.5,0,0,0,0,0,0,0,1,.33,.67,0
+58,Americas,Latin America-Caribbean,Dominican Republic,2007,.6,0,0,0,0,0,0,0,0,.33,0,0
+58,Americas,Latin America-Caribbean,Dominican Republic,2008,.4,0,0,0,0,0,0,0,0,0,0,0
+58,Americas,Latin America-Caribbean,Dominican Republic,2009,1,0,0,0,0,0,0,0,0,.33,0,0
+58,Americas,Latin America-Caribbean,Dominican Republic,2010,.6,0,0,0,0,0,0,0,0,.33,0,0
+58,Americas,Latin America-Caribbean,Dominican Republic,2011,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+58,Americas,Latin America-Caribbean,Dominican Republic,2012,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+58,Americas,Latin America-Caribbean,Dominican Republic,2013,1.5,0,0,0,0,0,0,0,0,0,.67,.5
+58,Americas,Latin America-Caribbean,Dominican Republic,2014,1.5,0,0,.5,0,0,0,0,0,0,.67,.5
+59,Americas,Latin America-Caribbean,Ecuador,2007,1.1,.6,0,0,0,0,1,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2008,1.4,.6,0,.5,0,0,1,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2009,.7,0,0,0,0,0,0,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2010,.8,0,0,0,0,0,0,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2011,.8,.1,0,0,0,0,0,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2012,.8,.4,0,0,0,0,0,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2013,.7,.1,0,0,0,0,0,0,0,0,.33,0
+59,Americas,Latin America-Caribbean,Ecuador,2014,.8,.3,0,0,0,0,0,0,0,.33,.33,0
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2007,7.2,6.1,0,.5,1,1,1,.5,1,.67,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2008,8.1,7,1,.5,1,1,.5,.5,1,.67,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2009,8.6,7.4,1,.5,1,1,.5,.5,1,.67,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2010,8.699999999999999,7.6,1,0,1,1,.5,1,1,1,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2011,8.9,7.6,1,.5,1,1,.5,1,1,1,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2012,8.800000000000001,8.300000000000001,1,.5,1,1,.5,1,1,1,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2013,8.199999999999999,7.7,1,.5,1,1,.5,.5,1,1,.67,.5
+60,Middle East-North Africa,Middle East-North Africa,Egypt,2014,8.300000000000001,6.8,1,.5,1,1,.5,.5,1,1,.67,.5
+61,Americas,Latin America-Caribbean,El Salvador,2007,.6,.4,0,0,0,0,0,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2008,1.2,.4,0,0,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2009,1.4,0,0,.5,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2010,1.4,0,0,.5,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2011,1.7,0,0,.5,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2012,1.5,0,0,.5,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2013,1.5,0,0,.5,0,0,1,0,0,0,.67,0
+61,Americas,Latin America-Caribbean,El Salvador,2014,1.4,0,0,.5,0,0,1,0,0,0,.67,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2007,2.6,0,0,0,1,0,0,1,.33,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2008,1.8,0,0,0,0,0,0,1,.33,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2009,1.7,0,0,0,1,0,0,0,0,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2010,2.4,0,0,0,1,0,0,1,.33,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2011,2.5,0,0,0,1,0,0,1,.67,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2012,2.6,0,0,0,1,0,0,1,.67,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2013,2.1,0,0,0,1,0,0,0,.67,.33,0,0
+62,Sub-Saharan Africa,Sub-Saharan Africa,Equatorial Guinea,2014,3.1,0,0,.5,1,0,1,1,.67,.33,0,0
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2007,7,.4,0,.5,1,1,.5,.5,1,.67,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2008,7.1,.8,0,.5,1,1,.5,.5,1,.67,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2009,7.9,.6,1,1,1,1,.5,.5,1,.67,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2010,7.7,.6,1,0,1,1,1,1,1,1,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2011,7.3,.6,0,1,1,1,1,1,1,1,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2012,7.9,.2,0,1,1,1,.5,1,1,1,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2013,6.9,.2,0,0,1,1,.5,1,1,1,1,1
+63,Sub-Saharan Africa,Sub-Saharan Africa,Eritrea,2014,6.5,0,0,.5,1,0,0,1,1,.67,1,1
+64,Europe,Europe,Estonia,2007,1.1,.8,0,0,0,0,0,0,0,0,.67,0
+64,Europe,Europe,Estonia,2008,.9,.6,0,0,0,0,0,0,0,0,.67,0
+64,Europe,Europe,Estonia,2009,1,.3,0,0,0,0,0,0,0,0,.67,0
+64,Europe,Europe,Estonia,2010,1.4,.8,0,0,0,0,0,1,0,0,.67,0
+64,Europe,Europe,Estonia,2011,1.2,.4,0,0,0,0,0,0,0,0,.67,0
+64,Europe,Europe,Estonia,2012,1.4,.3,0,0,0,0,0,0,.33,0,.67,0
+64,Europe,Europe,Estonia,2013,1.4,0,0,0,0,0,0,0,.33,0,.67,0
+64,Europe,Europe,Estonia,2014,1.4,.4,0,0,0,0,0,0,.33,0,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2007,2.6,5.3,0,.5,0,0,0,1,.33,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2008,2.9,3.2,0,.5,1,0,0,0,0,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2009,3.5,5.1,1,.5,0,0,0,0,1,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2010,4.3,4.9,1,.5,1,0,.5,0,.67,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2011,4.9,6.7,1,.5,1,0,.5,0,.67,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2012,5.3,5.3,1,0,1,0,0,.5,.67,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2013,4.6,4.8,1,0,1,0,0,0,1,.33,.67,0
+65,Sub-Saharan Africa,Sub-Saharan Africa,Ethiopia,2014,3.6,3.2,0,0,1,0,0,0,1,.33,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2007,.9,2.6,0,0,0,0,0,0,0,0,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2008,.5,1.2,0,0,0,0,0,0,0,0,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2009,.9,1.2,0,0,0,0,0,0,0,.33,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2010,3,.9,0,0,1,0,0,.5,.67,.33,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2011,2,.8,0,0,1,0,0,0,.67,.33,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2012,2.3,1.7,1,0,1,0,0,0,.67,.33,.67,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2013,1.7,1.9,0,0,1,0,1,0,.33,0,.33,0
+68,Asia-Pacific,Asia-Pacific,Fiji,2014,2.6,1.9,0,0,1,0,1,1,0,.33,.33,0
+69,Europe,Europe,Finland,2007,.6,.8,0,0,0,0,0,0,0,.33,0,0
+69,Europe,Europe,Finland,2008,1,.6,0,0,0,0,0,0,.33,0,0,0
+69,Europe,Europe,Finland,2009,1.3,.4,0,0,0,0,0,0,.33,.33,0,0
+69,Europe,Europe,Finland,2010,1.1,0,0,0,0,0,0,0,.33,0,0,0
+69,Europe,Europe,Finland,2011,1.7,1.2,0,0,0,0,0,0,.67,.33,0,0
+69,Europe,Europe,Finland,2012,1.6,1.9,0,0,0,0,0,0,.67,.33,0,0
+69,Europe,Europe,Finland,2013,2.3,.1,0,0,0,0,0,0,1,.33,0,0
+69,Europe,Europe,Finland,2014,1.3,.1,0,0,0,0,0,0,.67,.33,0,0
+70,Europe,Europe,France,2007,3.3,3.4,0,0,0,0,0,0,.67,.33,.67,.5
+70,Europe,Europe,France,2008,3.4,2.6,1,0,1,0,0,0,.67,.33,.67,.5
+70,Europe,Europe,France,2009,5.3,3,1,0,1,0,0,0,.67,.33,.67,.5
+70,Europe,Europe,France,2010,4.1,5.1,1,0,0,0,0,0,1,.33,.67,.5
+70,Europe,Europe,France,2011,3.9,5.4,1,0,0,0,0,0,1,.33,.67,.5
+70,Europe,Europe,France,2012,4.3,6.5,1,.5,0,0,0,.5,1,.33,.67,.5
+70,Europe,Europe,France,2013,4.2,5.1,1,.5,0,0,0,1,.67,.33,.67,.5
+70,Europe,Europe,France,2014,4.4,5.4,1,.5,0,0,0,1,.67,.33,.67,.5
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2007,1.7,.1,0,.5,0,0,0,0,0,.33,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2008,.9,.3,0,0,0,0,0,0,0,0,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2009,1.8,.3,0,0,1,0,0,0,0,0,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2010,1.9,.8,0,0,1,0,0,0,0,0,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2011,1.6,.5,0,0,1,0,0,0,0,.33,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2012,1.2,1,0,0,1,0,0,0,0,.33,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2013,.5,1,0,0,0,0,0,0,0,0,.67,0
+73,Sub-Saharan Africa,Sub-Saharan Africa,Gabon,2014,1,0,0,0,0,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2007,.5,.8,0,0,0,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2008,1.1,1.4,0,0,0,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2009,1.1,.3,0,0,0,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2010,1.8,.5,0,0,1,0,0,0,0,.33,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2011,1.7,0,0,0,1,0,0,.5,.33,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2012,1.6,0,0,0,1,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2013,1.8,.3,0,0,1,0,0,0,0,0,.67,0
+74,Sub-Saharan Africa,Sub-Saharan Africa,Gambia,2014,1.8,.6,0,0,1,0,0,0,.33,0,.67,0
+75,Europe,Europe,Georgia,2007,2.2,4.7,0,0,1,0,0,0,.67,.33,0,0
+75,Europe,Europe,Georgia,2008,3.5,3.7,0,0,1,0,0,0,.67,.67,0,0
+75,Europe,Europe,Georgia,2009,2.4,2.6,0,0,0,0,0,0,.67,0,0,0
+75,Europe,Europe,Georgia,2010,2.9,4.1,0,0,0,0,0,0,.67,.33,0,0
+75,Europe,Europe,Georgia,2011,2,4.5,0,0,0,0,0,0,.67,.33,0,0
+75,Europe,Europe,Georgia,2012,2.8,6.2,0,0,1,0,0,0,.67,.33,0,0
+75,Europe,Europe,Georgia,2013,3.1,4.5,0,0,1,0,0,0,1,.33,0,0
+75,Europe,Europe,Georgia,2014,3.6,4.7,0,0,1,0,0,0,1,.33,0,0
+76,Europe,Europe,Germany,2007,3.1,2.1,1,0,0,0,0,0,1,.33,0,0
+76,Europe,Europe,Germany,2008,3.2,2.9,1,0,0,0,0,0,1,.33,0,0
+76,Europe,Europe,Germany,2009,3,3.7,1,0,1,0,0,0,.67,.33,0,0
+76,Europe,Europe,Germany,2010,4,5.3,1,0,1,0,0,.5,.67,.33,0,0
+76,Europe,Europe,Germany,2011,3.5,5,1,0,1,0,0,.5,.67,.33,0,0
+76,Europe,Europe,Germany,2012,3.8,5.6,1,0,1,0,0,.5,1,.33,0,0
+76,Europe,Europe,Germany,2013,4.5,4.3,1,0,1,0,0,.5,.67,.33,0,0
+76,Europe,Europe,Germany,2014,3.4,2.5,1,0,1,0,0,1,.67,.33,0,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2007,1.2,4.9,0,0,0,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2008,.5,3.7,0,0,0,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2009,.8,3.5,0,0,0,0,0,0,.33,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2010,1,2.6,0,0,1,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2011,.4,2.2,0,0,0,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2012,.8,3.8,0,0,0,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2013,1.3,2.7,0,0,0,0,0,0,0,0,.33,0
+77,Sub-Saharan Africa,Sub-Saharan Africa,Ghana,2014,.8,1,0,0,0,0,0,0,0,0,.33,0
+79,Europe,Europe,Greece,2007,5.2,4.4,0,.5,0,0,1,0,.67,.67,.67,.5
+79,Europe,Europe,Greece,2008,4.5,2.8,0,.5,1,0,1,0,.67,.33,.67,.5
+79,Europe,Europe,Greece,2009,4,3.1,0,0,0,0,1,0,1,.33,.67,.5
+79,Europe,Europe,Greece,2010,5.5,4.1,0,.5,0,0,1,.5,.67,.67,.67,.5
+79,Europe,Europe,Greece,2011,5.4,5,0,.5,0,0,1,.5,1,.67,.67,.5
+79,Europe,Europe,Greece,2012,5,6.5,0,.5,0,0,1,.5,1,.67,.67,.5
+79,Europe,Europe,Greece,2013,4.4,5.3,0,0,0,0,1,.5,1,.67,.67,.5
+79,Europe,Europe,Greece,2014,4.4,4.1,0,0,1,0,1,.5,1,.67,.67,.5
+81,Americas,Latin America-Caribbean,Grenada,2007,.5,0,0,0,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2008,.5,0,0,0,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2009,.5,0,0,0,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2010,.8,.8,0,.5,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2011,.8,0,0,.5,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2012,.8,0,0,.5,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2013,.8,0,0,.5,0,0,0,0,0,0,.67,0
+81,Americas,Latin America-Caribbean,Grenada,2014,.8,0,0,.5,0,0,0,0,0,0,.67,0
+84,Americas,Latin America-Caribbean,Guatemala,2007,1.2,1,0,.5,0,0,0,0,0,.33,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2008,.8,1.3,0,0,0,0,0,0,0,0,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2009,.9,1.2,0,0,0,0,0,0,0,0,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2010,1,.3,0,0,0,0,0,0,.33,0,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2011,1.3,.3,0,0,0,0,0,0,.33,.33,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2012,1.3,.5,0,0,0,0,0,0,.33,.33,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2013,1.9,1.2,0,.5,0,0,0,0,.67,.33,.33,0
+84,Americas,Latin America-Caribbean,Guatemala,2014,2.1,1.2,0,.5,0,0,0,0,.67,.33,.33,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2007,1.5,1.7,0,.5,1,0,0,0,0,0,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2008,1.1,3.2,0,0,1,0,0,0,0,0,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2009,1.6,0,0,0,1,0,0,0,.67,.33,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2010,2.9,1.9,0,0,1,0,0,0,.67,.33,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2011,2.7,2.1,0,0,1,0,0,0,.67,.33,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2012,2.9,4.5,0,0,1,0,0,0,.67,.33,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2013,2.1,1.7,0,0,1,0,0,0,.67,.33,0,0
+85,Sub-Saharan Africa,Sub-Saharan Africa,Guinea,2014,3.4,3.3,0,0,1,1,0,.5,.67,.33,0,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2007,1.6,0,0,0,0,0,0,0,0,.33,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2008,.3,.9,0,0,0,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2009,.3,0,0,0,0,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2010,.3,1.2,0,0,0,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2011,.3,1.5,0,0,0,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2012,.3,1.5,0,0,0,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2013,.8,0,0,0,1,0,0,0,0,0,.33,0
+86,Sub-Saharan Africa,Sub-Saharan Africa,Guinea-Bissau,2014,.4,0,0,0,0,0,0,0,0,0,.33,0
+87,Americas,Latin America-Caribbean,Guyana,2007,.7,0,0,0,0,0,0,0,.33,0,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2008,.6,0,0,0,0,0,0,0,0,0,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2009,.5,0,0,0,0,0,0,0,0,0,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2010,2.1,0,0,.5,0,0,0,0,.33,.33,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2011,1.4,0,0,.5,0,0,0,0,.33,.33,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2012,1.1,0,0,.5,0,0,0,0,.33,.33,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2013,1.2,0,0,.5,0,0,0,0,.33,.33,.67,0
+87,Americas,Latin America-Caribbean,Guyana,2014,1.2,0,0,.5,0,0,0,0,.33,.33,.67,0
+88,Americas,Latin America-Caribbean,Haiti,2007,1.8,.6,0,0,0,0,1,0,0,.33,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2008,.7,1.7,0,0,0,0,0,0,0,0,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2009,.8,.4,0,0,0,0,0,0,0,0,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2010,.8,2.2,0,0,0,0,0,0,0,0,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2011,1.6,1.7,0,0,0,0,0,0,.33,0,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2012,1.9,1.8,0,0,0,0,0,0,.67,.33,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2013,1.5,2.2,0,0,0,0,0,0,.67,0,.33,0
+88,Americas,Latin America-Caribbean,Haiti,2014,1.9,.6,0,0,0,0,0,0,.67,0,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2007,1.3,.3,0,.5,0,0,0,0,.33,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2008,.8,.5,0,.5,0,0,0,0,0,0,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2009,2.7,.3,0,.5,0,0,0,0,1,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2010,1.6,.8,0,.5,1,0,0,0,0,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2011,2.4,.6,0,.5,0,0,0,0,1,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2012,2.2,.3,0,.5,0,0,0,0,1,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2013,2,.3,0,.5,0,0,0,0,.67,.33,.33,0
+90,Americas,Latin America-Caribbean,Honduras,2014,2.6,.1,0,.5,1,0,0,0,.67,.33,.33,0
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2007,1,.8,0,0,0,0,0,0,0,0,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2008,2,.5,0,0,0,0,0,0,0,.33,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2009,2.4,0,0,0,0,0,0,0,.33,0,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2010,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2011,2.1,.5,0,0,0,0,0,0,.33,.33,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2012,2.6,1.2,0,0,0,0,0,0,.33,.33,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2013,2.9,2.2,0,0,0,0,0,0,.33,.33,.67,.5
+91,Asia-Pacific,Asia-Pacific,Hong Kong,2014,2.3,.4,0,0,1,0,0,0,0,.33,.67,.5
+92,Europe,Europe,Hungary,2007,.3,1,0,0,0,0,0,0,0,0,0,0
+92,Europe,Europe,Hungary,2008,.7,2.4,0,0,0,0,0,0,0,0,0,0
+92,Europe,Europe,Hungary,2009,.6,1.2,0,0,0,0,0,0,0,0,0,0
+92,Europe,Europe,Hungary,2010,.8,2.8,0,0,0,0,0,0,0,0,0,0
+92,Europe,Europe,Hungary,2011,1,2,0,0,0,0,0,0,.33,0,0,0
+92,Europe,Europe,Hungary,2012,2.4,2.7,0,0,0,0,0,0,.67,.67,0,0
+92,Europe,Europe,Hungary,2013,2.9,2.4,0,0,0,0,0,0,.67,.67,.67,0
+92,Europe,Europe,Hungary,2014,2.8,2.2,0,0,0,0,0,0,.67,.67,.67,0
+93,Europe,Europe,Iceland,2007,2.6,.4,0,0,1,0,0,0,0,.33,.67,.5
+93,Europe,Europe,Iceland,2008,2.3,1.8,0,0,0,0,0,0,0,.33,.67,.5
+93,Europe,Europe,Iceland,2009,1.8,1.3,0,0,0,0,0,0,0,0,.67,.5
+93,Europe,Europe,Iceland,2010,2.8,1.2,0,0,0,1,0,0,0,0,.67,.5
+93,Europe,Europe,Iceland,2011,2.1,.4,0,0,0,1,0,0,.33,0,.67,.5
+93,Europe,Europe,Iceland,2012,3.2,1.2,0,0,1,1,0,0,.33,.33,.67,.5
+93,Europe,Europe,Iceland,2013,3.4,.6,0,0,1,1,1,0,.67,0,.67,.5
+93,Europe,Europe,Iceland,2014,2.6,1,0,0,0,1,1,0,0,0,.67,.5
+94,Asia-Pacific,Asia-Pacific,India,2007,4.8,8.800000000000001,0,.5,1,1,1,1,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2008,5.8,8.800000000000001,0,.5,1,1,1,1,.67,.67,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2009,5,8.800000000000001,0,.5,1,1,1,1,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2010,5.3,9,1,.5,1,1,1,0,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2011,5.1,9.6,1,.5,1,1,1,0,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2012,5.5,9.6,1,.5,1,1,1,1,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2013,5,9,0,.5,1,1,.5,.5,.67,.33,.67,0
+94,Asia-Pacific,Asia-Pacific,India,2014,4.5,7.9,0,.5,1,1,1,.5,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2007,6.2,8.300000000000001,1,.5,0,1,1,1,1,.33,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2008,7.4,7.2,1,.5,1,1,1,0,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2009,7,8.1,1,.5,0,1,1,0,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2010,8.6,7.2,1,.5,1,1,1,1,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2011,8.199999999999999,8.699999999999999,1,.5,1,1,1,1,.67,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2012,8.300000000000001,8.5,1,.5,1,1,1,1,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2013,8.5,7.8,1,.5,1,1,1,1,1,.67,.67,0
+95,Asia-Pacific,Asia-Pacific,Indonesia,2014,7.9,7.1,1,.5,1,1,.5,.5,1,.67,.67,0
+96,Asia-Pacific,Asia-Pacific,Iran,2007,7.9,6,1,1,1,1,.5,.5,1,.67,.67,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2008,8.699999999999999,4.4,1,1,1,1,.5,.5,1,.67,.67,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2009,8,6.7,1,.5,1,1,.5,.5,1,.67,.67,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2010,7.9,5,1,.5,1,1,.5,.5,1,1,.67,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2011,8.5,5.9,1,1,1,1,.5,.5,1,1,0,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2012,8.6,5.4,1,1,1,1,.5,.5,1,1,0,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2013,8.300000000000001,5.2,1,.5,1,1,.5,.5,1,1,0,.5
+96,Asia-Pacific,Asia-Pacific,Iran,2014,7.7,4.5,1,.5,1,1,.5,.5,1,1,0,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2007,5.1,10,1,.5,0,0,0,0,1,1,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2008,5.1,9,1,0,0,0,0,0,1,.67,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2009,5.4,9.199999999999999,1,0,0,0,0,1,1,.67,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2010,4.6,8.300000000000001,0,0,1,0,0,0,1,.33,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2011,5,8.5,0,0,1,1,0,0,1,.67,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2012,6.8,9,1,0,1,1,.5,0,1,.67,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2013,6.4,7.4,0,0,1,1,.5,0,1,.67,.67,.5
+97,Middle East-North Africa,Middle East-North Africa,Iraq,2014,6.4,8.5,0,0,1,1,.5,0,1,.67,.67,.5
+98,Europe,Europe,Ireland,2007,.6,.4,0,0,0,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2008,1.9,1,1,0,0,0,0,0,.33,0,.67,.5
+98,Europe,Europe,Ireland,2009,.6,.6,0,0,0,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2010,.6,0,0,0,0,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2011,1.1,.6,0,0,1,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2012,1.1,1.9,0,0,1,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2013,1.5,1.8,0,0,1,0,0,0,0,0,.67,.5
+98,Europe,Europe,Ireland,2014,.8,2.4,0,0,0,0,0,0,0,0,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2007,3.9,7.8,0,.5,0,1,1,0,.67,.33,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2008,5.1,6.9,0,.5,0,1,1,0,.67,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2009,4.3,7.8,0,.5,0,1,1,.5,.67,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2010,6.1,7.9,1,.5,0,1,.5,0,1,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2011,6,8.9,1,.5,0,1,.5,0,1,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2012,6.5,9.4,1,.5,0,1,.5,0,1,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2013,5.7,9,1,.5,0,1,1,0,1,.67,.67,.5
+100,Middle East-North Africa,Middle East-North Africa,Israel,2014,5.5,9.1,1,.5,0,1,1,0,1,.67,.67,.5
+101,Europe,Europe,Italy,2007,2,1.9,1,0,0,0,0,0,.33,.33,.67,0
+101,Europe,Europe,Italy,2008,2.3,2.4,0,0,0,0,0,0,.33,.33,.67,0
+101,Europe,Europe,Italy,2009,2.1,2.4,1,.5,0,0,0,0,.67,0,.67,0
+101,Europe,Europe,Italy,2010,2.6,3.3,1,0,0,0,0,0,.67,.33,.67,0
+101,Europe,Europe,Italy,2011,2.8,4,1,0,0,0,0,0,.67,.33,.67,0
+101,Europe,Europe,Italy,2012,2.6,5.7,1,0,0,0,0,0,.67,.33,.67,0
+101,Europe,Europe,Italy,2013,2,3.7,1,.5,0,0,0,0,.33,0,.67,0
+101,Europe,Europe,Italy,2014,2.3,5.1,1,.5,0,0,0,0,.33,0,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2007,1,0,0,0,0,0,0,0,.33,0,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2008,.7,.3,0,0,0,0,0,0,.33,0,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2009,1.3,0,0,0,0,0,0,0,1,0,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2010,1.4,.4,0,0,0,0,0,0,.33,.33,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2011,2.1,.4,0,0,0,0,0,0,1,.33,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2012,2.2,.4,0,0,0,0,0,0,1,.33,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2013,1.5,.4,0,0,0,0,0,0,1,.33,.67,0
+102,Americas,Latin America-Caribbean,Jamaica,2014,1.6,.4,0,0,0,0,0,0,1,.33,.67,0
+103,Asia-Pacific,Asia-Pacific,Japan,2007,.2,.4,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2008,.5,2.5,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2009,.2,.4,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2010,2,3.1,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2011,1.9,3,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2012,.7,2.8,0,0,0,0,0,0,0,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2013,1.1,2.4,0,0,0,0,0,0,.33,0,0,0
+103,Asia-Pacific,Asia-Pacific,Japan,2014,.7,1.4,0,0,0,0,0,0,0,0,0,0
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2007,4.6,3.5,0,.5,0,1,.5,0,1,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2008,6.1,5.1,1,.5,0,1,.5,.5,1,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2009,4.6,5,0,0,1,1,.5,0,.67,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2010,6.5,5.1,0,.5,1,1,.5,1,.67,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2011,6,5.4,0,.5,1,1,.5,.5,.33,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2012,5.7,5.1,0,.5,1,1,.5,.5,.67,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2013,6.2,2.9,0,.5,1,1,.5,.5,.67,.67,.67,.5
+104,Middle East-North Africa,Middle East-North Africa,Jordan,2014,5.5,5,0,.5,1,1,.5,.5,.67,.67,.67,.5
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2007,5.6,3.1,0,.5,1,0,1,.5,.67,.67,.67,.5
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2008,4.3,2.6,0,.5,0,0,1,0,.67,.67,.67,.5
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2009,5,2,0,.5,1,0,.5,.5,.67,.67,.67,.5
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2010,5.7,1.2,1,.5,1,0,.5,0,.67,.67,.67,.5
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2011,5.7,1.7,1,.5,1,0,.5,.5,.67,.67,.67,0
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2012,6.7,1.9,1,.5,1,0,1,1,1,.67,.67,0
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2013,6,1,0,.5,1,0,1,.5,1,.67,.67,0
+105,Asia-Pacific,Asia-Pacific,Kazakhstan,2014,7.5,1.3,1,.5,1,1,1,.5,1,.67,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2007,2.9,2.4,0,.5,1,0,.5,0,.33,0,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2008,2.9,6.9,0,0,1,0,0,0,0,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2009,3.8,3,0,.5,0,0,.5,0,.67,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2010,4.7,6.7,0,0,0,0,.5,0,1,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2011,5.5,7.2,1,0,1,0,.5,0,1,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2012,4.3,8.300000000000001,1,0,1,0,0,0,1,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2013,3.7,7.3,1,0,1,0,0,0,.67,.33,.67,0
+106,Sub-Saharan Africa,Sub-Saharan Africa,Kenya,2014,3.9,7.1,1,0,1,0,0,0,.67,.67,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2007,.3,.8,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2008,.8,1.7,0,0,0,0,.5,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2009,.8,1,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2010,.5,.8,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2011,.5,1.5,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2012,.5,.8,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2013,.9,.5,0,0,0,0,0,0,0,0,.67,0
+107,Asia-Pacific,Asia-Pacific,Kiribati,2014,.9,0,0,0,0,0,0,0,0,0,.67,0
+108,Europe,Europe,Kosovo,2007,1.9,2.4,1,0,1,0,0,0,.33,0,.33,0
+108,Europe,Europe,Kosovo,2008,2.2,3,1,0,1,0,0,0,.33,.33,.33,0
+108,Europe,Europe,Kosovo,2009,1.5,2.8,1,0,0,0,0,0,0,.33,.33,0
+108,Europe,Europe,Kosovo,2010,1.7,3.7,1,0,0,0,0,0,.67,.33,.33,0
+108,Europe,Europe,Kosovo,2011,1.8,5.2,1,0,0,0,0,0,.33,.33,.33,0
+108,Europe,Europe,Kosovo,2012,1.5,6.7,1,0,0,0,0,0,.33,.33,.33,0
+108,Europe,Europe,Kosovo,2013,2.5,5.3,1,0,0,0,0,0,1,.33,.33,0
+108,Europe,Europe,Kosovo,2014,2.6,5.1,1,0,0,0,0,0,1,.33,.33,0
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2007,4.8,1.9,0,.5,1,1,.5,.5,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2008,5.3,3.7,0,1,1,1,.5,.5,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2009,5.8,.4,0,.5,1,1,.5,1,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2010,4.7,1.7,0,.5,1,1,.5,.5,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2011,5.5,3.7,0,.5,1,1,.5,.5,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2012,5.1,4.3,0,.5,1,1,.5,.5,.67,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2013,5.4,3.6,0,.5,1,1,.5,.5,1,.67,.67,.5
+109,Middle East-North Africa,Middle East-North Africa,Kuwait,2014,5.4,3.5,0,.5,1,1,.5,.5,1,.67,.67,.5
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2007,3.9,5.5,0,.5,1,0,0,0,.67,.33,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2008,3.5,5.7,1,.5,0,0,0,0,.67,.33,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2009,5.6,2.5,1,.5,1,1,1,0,1,.67,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2010,6.5,5.1,1,.5,1,0,1,0,1,.33,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2011,6.2,4.9,0,.5,1,1,1,0,.67,.67,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2012,6.5,5,1,.5,1,1,1,.5,.67,.67,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2013,5.7,1.9,1,.5,1,1,1,0,1,.67,0,0
+110,Asia-Pacific,Asia-Pacific,Kyrgyzstan,2014,6,2,1,.5,1,0,1,0,1,.67,0,0
+111,Asia-Pacific,Asia-Pacific,Laos,2007,6.3,1,0,.5,1,0,.5,.5,1,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2008,4.1,.9,0,.5,1,0,.5,0,1,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2009,7.1,.6,0,1,1,1,.5,.5,1,1,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2010,5.7,3.1,0,.5,1,1,1,0,.67,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2011,5.5,2.8,0,.5,1,1,1,0,1,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2012,5.6,2.3,0,.5,1,1,.5,.5,1,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2013,6.1,1.5,0,.5,1,1,.5,.5,1,.67,.67,.5
+111,Asia-Pacific,Asia-Pacific,Laos,2014,7,3.2,0,.5,1,1,1,1,1,.67,.67,.5
+112,Europe,Europe,Latvia,2007,2.3,1.4,0,.5,0,0,1,0,.33,.33,.67,0
+112,Europe,Europe,Latvia,2008,2.4,.8,1,.5,0,0,0,0,.33,.33,.67,0
+112,Europe,Europe,Latvia,2009,2,.6,0,.5,0,0,1,0,0,.33,.67,0
+112,Europe,Europe,Latvia,2010,2.1,.8,0,.5,0,0,.5,0,0,.33,.67,0
+112,Europe,Europe,Latvia,2011,2.9,.5,0,.5,0,0,.5,0,.67,.33,.67,0
+112,Europe,Europe,Latvia,2012,2.6,1,0,.5,0,0,.5,.5,.67,.33,.67,0
+112,Europe,Europe,Latvia,2013,2.9,1.2,0,.5,0,0,.5,.5,.67,.33,.67,0
+112,Europe,Europe,Latvia,2014,2.8,1.4,0,.5,0,0,.5,.5,.67,.33,.67,0
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2007,1.4,5.1,0,.5,0,0,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2008,2.2,4.7,0,0,0,0,0,0,.33,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2009,2.8,2.6,0,.5,1,0,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2010,3.7,4.9,0,.5,1,1,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2011,3.6,5.6,0,.5,1,1,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2012,3.1,7.9,0,.5,1,1,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2013,4,6.1,0,.5,1,1,0,0,0,.33,.67,.5
+113,Middle East-North Africa,Middle East-North Africa,Lebanon,2014,3.7,7.6,0,.5,1,1,0,0,0,.33,.67,.5
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2007,.4,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2008,.6,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2009,.5,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2010,.6,.4,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2011,.6,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2012,.4,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2013,.5,0,0,0,0,0,0,0,0,0,.67,0
+114,Sub-Saharan Africa,Sub-Saharan Africa,Lesotho,2014,.7,0,0,0,0,0,0,0,0,0,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2007,1.7,3.8,1,0,0,0,0,0,0,.33,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2008,.6,4.2,0,0,0,0,0,0,0,0,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2009,.5,.5,0,0,0,0,0,0,0,0,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2010,1.7,1.8,0,0,0,0,0,0,.33,.33,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2011,1.2,1.8,0,0,0,0,0,0,.33,.33,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2012,1.5,2.6,0,0,0,0,0,0,.33,.33,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2013,1.4,1,0,0,0,0,0,0,.33,.33,.67,0
+115,Sub-Saharan Africa,Sub-Saharan Africa,Liberia,2014,1.4,.8,0,0,0,0,0,0,.33,.33,.67,0
+116,Middle East-North Africa,Middle East-North Africa,Libya,2007,5.1,1.4,0,1,1,0,.5,.5,1,.67,1,1
+116,Middle East-North Africa,Middle East-North Africa,Libya,2008,6,3.1,0,.5,1,1,.5,.5,1,.67,1,1
+116,Middle East-North Africa,Middle East-North Africa,Libya,2009,6.9,1.5,0,1,1,1,.5,.5,1,.67,1,1
+116,Middle East-North Africa,Middle East-North Africa,Libya,2010,5.8,.2,0,1,1,1,.5,.5,.33,1,1,1
+116,Middle East-North Africa,Middle East-North Africa,Libya,2011,6.2,1.9,0,1,1,1,.5,1,1,1,.67,.5
+116,Middle East-North Africa,Middle East-North Africa,Libya,2012,5.5,5.4,1,0,1,1,.5,.5,1,1,.67,.5
+116,Middle East-North Africa,Middle East-North Africa,Libya,2013,4.7,6.9,0,.5,1,0,.5,.5,.67,1,.67,.5
+116,Middle East-North Africa,Middle East-North Africa,Libya,2014,4.7,7.1,0,.5,1,0,.5,.5,.67,1,.67,.5
+117,Europe,Europe,Liechtenstein,2007,1.3,.1,0,.5,0,0,0,0,0,.33,.67,.5
+117,Europe,Europe,Liechtenstein,2008,1.5,.8,0,0,0,0,0,.5,0,0,.67,.5
+117,Europe,Europe,Liechtenstein,2009,1.3,1.2,0,.5,0,0,0,.5,0,0,.67,.5
+117,Europe,Europe,Liechtenstein,2010,1.4,1.2,0,.5,0,0,0,.5,0,0,.67,.5
+117,Europe,Europe,Liechtenstein,2011,1.7,1.2,0,.5,0,0,0,.5,.33,.33,.67,.5
+117,Europe,Europe,Liechtenstein,2012,2,.6,0,.5,0,0,0,.5,.33,.33,.67,.5
+117,Europe,Europe,Liechtenstein,2013,1.9,1.9,0,.5,0,0,0,.5,.33,0,.67,.5
+117,Europe,Europe,Liechtenstein,2014,2.1,1.9,0,.5,0,0,0,.5,.67,0,.67,.5
+118,Europe,Europe,Lithuania,2007,1.7,.8,0,0,1,0,0,0,0,.33,.67,0
+118,Europe,Europe,Lithuania,2008,2,1.5,0,0,0,0,0,0,0,0,.67,0
+118,Europe,Europe,Lithuania,2009,2.5,.8,0,0,1,0,1,0,.67,.33,.67,0
+118,Europe,Europe,Lithuania,2010,1.6,1.5,0,0,0,0,0,0,0,0,.67,0
+118,Europe,Europe,Lithuania,2011,2.3,1.5,0,0,0,0,0,0,.67,.33,.67,0
+118,Europe,Europe,Lithuania,2012,2.6,1.5,0,0,0,0,0,0,.67,.33,.67,0
+118,Europe,Europe,Lithuania,2013,2.3,.8,0,0,0,0,0,0,.33,.33,.67,0
+118,Europe,Europe,Lithuania,2014,2.1,1.3,0,0,0,0,0,0,.33,.33,.67,0
+119,Europe,Europe,Luxembourg,2007,.8,0,0,0,0,0,0,0,0,0,.67,0
+119,Europe,Europe,Luxembourg,2008,.8,.3,0,0,0,0,0,0,0,0,.67,0
+119,Europe,Europe,Luxembourg,2009,.7,.4,0,0,0,0,0,0,0,0,.67,0
+119,Europe,Europe,Luxembourg,2010,1.2,0,0,0,0,0,0,0,0,0,.67,0
+119,Europe,Europe,Luxembourg,2011,1.3,0,0,0,0,0,0,0,0,0,.67,0
+119,Europe,Europe,Luxembourg,2012,1.6,0,0,0,0,0,0,0,.67,0,.67,0
+119,Europe,Europe,Luxembourg,2013,1.5,0,0,0,0,0,0,0,.67,0,.67,0
+119,Europe,Europe,Luxembourg,2014,1.5,0,0,0,0,0,0,0,.67,0,.67,0
+120,Asia-Pacific,Asia-Pacific,Macau,2007,1.3,.3,0,0,0,0,0,0,0,.33,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2008,1.8,0,0,0,0,0,0,0,0,0,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2009,1.9,0,0,0,0,0,.5,.5,.33,.33,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2010,.6,0,0,0,0,0,0,0,0,0,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2011,.8,0,0,0,0,0,0,0,0,0,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2012,.8,0,0,0,0,0,0,0,0,0,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2013,.8,0,0,0,0,0,0,0,0,0,.67,.5
+120,Asia-Pacific,Asia-Pacific,Macau,2014,.8,0,0,0,0,0,0,0,0,0,.67,.5
+121,Europe,Europe,Republic of Macedonia,2007,2.2,1.5,0,.5,1,0,0,0,.33,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2008,1.3,2.2,0,0,0,0,0,0,0,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2009,1,1.5,0,0,0,0,0,0,.33,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2010,2.8,3,1,.5,0,0,0,0,0,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2011,2.6,2.3,1,.5,0,0,0,0,.67,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2012,3,2.6,1,.5,0,0,0,0,.67,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2013,2.5,2.4,0,.5,0,0,0,0,.67,.33,0,0
+121,Europe,Europe,Republic of Macedonia,2014,3.2,1.7,0,.5,0,0,0,0,.67,.33,0,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2007,1.8,0,0,0,0,0,0,0,1,.33,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2008,2.2,.9,0,0,0,0,0,0,1,.33,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2009,2.4,.1,0,0,0,0,0,0,1,0,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2010,3.3,.4,0,.5,1,0,0,.5,.67,.33,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2011,2.5,.3,0,0,0,0,0,.5,.67,.67,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2012,3.3,2.6,0,0,1,0,0,1,.67,.67,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2013,3.4,.4,0,0,1,0,0,1,1,.67,.33,0
+122,Sub-Saharan Africa,Sub-Saharan Africa,Madagascar,2014,3.1,.3,0,0,1,0,0,1,.67,.33,.33,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2007,.4,.3,0,0,0,0,0,0,0,0,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2008,.4,2.3,0,0,0,0,0,0,.33,0,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2009,1.2,0,1,0,0,0,0,0,0,0,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2010,1,.4,1,0,0,0,0,0,.33,0,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2011,2,.1,1,0,1,0,0,0,.33,.33,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2012,1.8,2.3,1,0,1,0,0,0,.33,.33,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2013,.8,1.3,0,0,1,0,0,0,0,0,0,0
+123,Sub-Saharan Africa,Sub-Saharan Africa,Malawi,2014,1.1,.4,1,.5,0,0,0,0,0,0,0,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2007,6.4,1,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2008,7.1,1.9,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2009,8.1,1.3,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2010,6.4,2.2,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2011,7.1,3.9,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2012,7.6,3.9,1,.5,1,1,.5,.5,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2013,7.9,2.9,1,.5,1,1,.5,1,1,.67,.67,0
+124,Asia-Pacific,Asia-Pacific,Malaysia,2014,7,6,0,0,1,1,.5,0,1,.67,.67,0
+125,Asia-Pacific,Asia-Pacific,Maldives,2007,6.5,2.6,0,.5,1,1,1,1,1,.67,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2008,7.9,2.9,1,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2009,7.4,1.9,1,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2010,8.6,2.7,1,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2011,8.1,5.1,0,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2012,8.1,5.5,0,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2013,6.5,3.9,0,1,1,1,1,1,1,1,1,1
+125,Asia-Pacific,Asia-Pacific,Maldives,2014,6.8,4.4,1,1,1,1,1,.5,1,1,1,1
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2007,.9,.3,0,0,1,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2008,.8,.2,0,0,1,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2009,.6,.4,0,0,0,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2010,.9,1.3,1,0,0,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2011,1.7,2.4,1,0,1,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2012,1.7,7,1,0,1,0,0,0,.33,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2013,1.8,3.6,0,0,1,0,0,0,0,0,0,0
+126,Sub-Saharan Africa,Sub-Saharan Africa,Mali,2014,.5,3.7,0,0,0,0,0,0,0,0,0,0
+127,Europe,Europe,Malta,2007,1.2,.4,0,0,0,0,0,0,0,.33,.67,.5
+127,Europe,Europe,Malta,2008,1.1,0,0,0,0,0,0,0,.33,0,.67,.5
+127,Europe,Europe,Malta,2009,1.3,0,0,0,0,0,0,0,.33,0,.67,.5
+127,Europe,Europe,Malta,2010,1.7,0,1,0,0,0,0,0,.33,0,.67,.5
+127,Europe,Europe,Malta,2011,1,.1,0,0,0,0,0,0,0,0,.67,.5
+127,Europe,Europe,Malta,2012,1.3,.9,0,0,0,0,0,0,0,0,.67,.5
+127,Europe,Europe,Malta,2013,1.1,.9,0,0,0,0,0,0,0,0,.67,.5
+127,Europe,Europe,Malta,2014,1,.9,0,0,0,0,0,0,0,0,.67,.5
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2007,.2,0,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2008,.4,.3,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2009,.2,0,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2010,.2,.8,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2011,.2,0,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2012,.2,0,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2013,.2,0,0,0,0,0,0,0,0,0,.33,0
+128,Asia-Pacific,Asia-Pacific,Marshall Islands,2014,.2,0,0,0,0,0,0,0,0,0,.33,0
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2007,6.5,.9,0,1,1,1,.5,.5,1,.67,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2008,6.6,1.7,0,1,1,1,.5,.5,1,1,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2009,6.2,1,0,1,1,1,.5,.5,1,1,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2010,6.2,1.5,0,1,1,1,.5,.5,.67,1,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2011,5.8,1,0,1,1,1,.5,.5,.67,.67,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2012,6.5,1,0,1,1,1,.5,.5,1,1,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2013,5.9,1.3,0,1,1,1,.5,.5,1,1,1,1
+130,Sub-Saharan Africa,Sub-Saharan Africa,Mauritania,2014,5.5,1.2,0,1,0,1,.5,.5,1,1,1,1
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2007,1.4,.3,0,.5,0,0,0,0,.33,.33,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2008,1.1,2.4,0,.5,0,0,0,0,.33,0,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2009,1.4,1.3,0,.5,0,0,0,0,.33,0,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2010,1.2,2.8,0,.5,0,0,0,0,0,0,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2011,1.4,2.4,0,.5,0,0,0,0,0,.33,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2012,1.2,2.9,0,.5,0,0,0,0,0,.33,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2013,1.4,1,0,.5,0,0,0,0,0,.33,.67,0
+131,Sub-Saharan Africa,Sub-Saharan Africa,Mauritius,2014,1.2,1,0,.5,0,0,0,0,0,0,.67,0
+133,Americas,Latin America-Caribbean,Mexico,2007,4.7,5.5,0,.5,1,1,.5,1,.33,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2008,3.4,3.9,0,0,1,0,0,1,0,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2009,4.2,5.1,0,.5,1,0,0,1,.33,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2010,3.6,3.6,0,.5,1,0,0,0,.67,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2011,3.6,3.2,0,.5,1,0,0,0,.67,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2012,3.9,6.7,0,.5,1,0,0,.5,.67,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2013,3.4,3.7,0,0,1,0,0,0,.67,.33,.67,.5
+133,Americas,Latin America-Caribbean,Mexico,2014,4.5,4.2,0,0,1,0,1,1,.67,.33,.67,.5
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2007,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2008,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2009,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2010,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2011,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2012,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2013,.2,0,0,0,0,0,0,0,0,0,.33,0
+134,Asia-Pacific,Asia-Pacific,Federated States of Micronesia,2014,.2,0,0,0,0,0,0,0,0,0,.33,0
+135,Europe,Europe,Moldova,2007,4.2,3.8,0,.5,0,0,1,1,.67,.33,.67,.5
+135,Europe,Europe,Moldova,2008,5,3.2,0,.5,1,0,.5,0,1,.33,.67,.5
+135,Europe,Europe,Moldova,2009,4.7,4.2,0,.5,1,0,0,1,.67,.67,.67,.5
+135,Europe,Europe,Moldova,2010,4.8,2.9,0,.5,1,0,1,0,.67,.33,.67,.5
+135,Europe,Europe,Moldova,2011,4.4,4.5,0,.5,1,0,1,0,.67,.67,.67,.5
+135,Europe,Europe,Moldova,2012,4.6,4,0,.5,1,0,.5,.5,1,.67,.67,.5
+135,Europe,Europe,Moldova,2013,4.4,3.8,0,.5,1,0,.5,0,1,.67,.67,.5
+135,Europe,Europe,Moldova,2014,3.5,3.8,0,.5,1,0,.5,0,1,.67,.67,.5
+136,Europe,Europe,Monaco,2007,2.5,0,0,0,0,0,1,0,1,.33,.33,0
+136,Europe,Europe,Monaco,2008,2.7,0,0,.5,0,0,.5,0,1,.33,.33,0
+136,Europe,Europe,Monaco,2009,2.5,0,0,.5,0,0,0,0,1,.33,.33,0
+136,Europe,Europe,Monaco,2010,1.8,0,0,0,0,0,1,0,0,0,.33,0
+136,Europe,Europe,Monaco,2011,2,0,0,0,0,0,1,0,0,.33,.33,0
+136,Europe,Europe,Monaco,2012,2,0,0,0,0,0,1,0,0,.33,.33,0
+136,Europe,Europe,Monaco,2013,2,0,0,0,0,0,1,0,0,.33,.33,0
+136,Europe,Europe,Monaco,2014,1.5,0,0,0,0,0,0,0,0,.33,.33,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2007,1.9,.6,0,.5,0,0,1,0,.67,.33,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2008,2.1,3.7,0,0,0,0,1,0,.67,.67,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2009,2.7,2.9,0,.5,0,0,1,0,.67,.33,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2010,3.4,1.2,0,.5,0,0,1,.5,.67,.33,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2011,4.5,.8,0,.5,0,0,1,.5,.67,.67,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2012,3.4,.8,0,.5,1,0,1,.5,.67,.67,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2013,2.8,.8,0,.5,0,0,1,0,.67,.67,0,0
+137,Asia-Pacific,Asia-Pacific,Mongolia,2014,2.5,1.5,0,.5,0,0,1,0,.33,.67,0,0
+138,Europe,Europe,Montenegro,2007,.9,2.4,1,0,0,0,0,0,.33,0,0,0
+138,Europe,Europe,Montenegro,2008,1.5,2.6,1,0,0,0,0,0,.33,.33,0,0
+138,Europe,Europe,Montenegro,2009,.9,1.5,0,0,0,0,0,0,.33,0,0,0
+138,Europe,Europe,Montenegro,2010,.4,2.4,0,0,0,0,0,0,0,0,0,0
+138,Europe,Europe,Montenegro,2011,.9,3.7,0,0,0,0,0,0,.33,0,0,0
+138,Europe,Europe,Montenegro,2012,2.4,3.7,0,.5,0,0,0,0,.33,.33,0,0
+138,Europe,Europe,Montenegro,2013,1.9,2.5,0,.5,0,0,0,0,.33,.33,0,0
+138,Europe,Europe,Montenegro,2014,1.5,2.5,0,.5,0,0,0,0,.33,.33,0,0
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2007,4.9,3.7,0,.5,1,1,.5,.5,.67,.33,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2008,5.6,2.1,0,.5,1,1,1,.5,.67,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2009,5.2,2.6,0,.5,1,0,.5,.5,.67,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2010,6.2,1.2,0,.5,1,1,.5,1,1,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2011,5.9,1.7,0,.5,1,1,.5,.5,.67,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2012,7,1.5,0,.5,1,1,.5,1,1,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2013,6.3,1.2,0,.5,1,1,.5,.5,1,.67,.67,.5
+140,Middle East-North Africa,Middle East-North Africa,Morocco,2014,5.3,1.3,0,.5,1,1,.5,.5,1,.67,.67,.5
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2007,1.1,.3,0,0,0,0,0,0,0,.33,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2008,.7,1.3,0,0,0,0,0,0,0,0,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2009,1.2,1,0,0,1,0,0,0,0,0,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2010,1.1,.3,0,0,0,0,0,0,0,0,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2011,1.2,0,1,0,0,0,0,0,.33,0,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2012,1.7,1.7,1,0,0,0,0,0,.33,.33,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2013,1.9,1.7,1,.5,0,0,0,0,0,.33,.33,0
+141,Sub-Saharan Africa,Sub-Saharan Africa,Mozambique,2014,1.6,0,1,.5,0,0,0,0,0,0,.33,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2007,7.9,4.9,1,.5,1,1,.5,1,1,.67,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2008,7.1,2.6,1,1,1,0,1,1,1,.67,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2009,7.9,4.9,1,1,1,1,.5,1,1,1,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2010,7.3,5.8,1,1,1,1,.5,1,1,1,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2011,7.3,5.5,1,1,1,1,.5,1,1,1,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2012,7.7,7.4,1,.5,1,1,.5,1,1,1,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2013,7.7,6.6,1,.5,1,1,.5,1,1,1,.67,0
+142,Asia-Pacific,Asia-Pacific,Burma (Myanmar),2014,6.5,6.2,1,.5,1,0,.5,.5,1,.67,.67,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2007,.3,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2008,.2,2.3,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2009,.3,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2010,.7,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2011,.5,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2012,.7,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2013,.4,0,0,0,0,0,0,0,0,0,.33,0
+143,Sub-Saharan Africa,Sub-Saharan Africa,Namibia,2014,.7,0,0,0,0,0,0,0,0,0,.33,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2007,2,.3,0,.5,0,0,.5,.5,.33,.67,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2008,1.5,1,0,.5,0,0,.5,0,0,.67,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2009,.7,0,0,0,0,0,0,0,0,0,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2010,1.1,0,0,0,0,0,0,0,0,0,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2011,.5,.3,0,0,0,0,0,0,0,0,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2012,1,.3,0,0,0,0,.5,.5,0,0,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2013,1.3,.3,0,0,1,0,.5,0,0,0,.67,0
+144,Asia-Pacific,Asia-Pacific,Nauru,2014,.8,.3,0,0,0,0,.5,0,0,0,.67,0
+145,Asia-Pacific,Asia-Pacific,Nepal,2007,3.4,4.2,0,.5,0,0,1,0,.67,.67,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2008,4.1,6.3,0,.5,0,0,1,0,.67,.67,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2009,3.5,5.3,0,.5,0,0,1,0,.33,.33,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2010,3.4,5.6,0,.5,0,0,1,0,.67,.33,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2011,4,6.3,0,.5,0,0,1,0,.67,.33,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2012,3.5,6,0,.5,0,0,1,0,.67,.33,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2013,3.9,5.8,0,.5,0,0,1,0,.67,.33,.67,.5
+145,Asia-Pacific,Asia-Pacific,Nepal,2014,3.1,2.8,0,0,1,0,1,0,0,.33,.67,.5
+146,Europe,Europe,Netherlands,2007,.4,1,0,0,0,0,0,0,0,.33,.33,0
+146,Europe,Europe,Netherlands,2008,.5,1.9,0,0,0,0,0,0,0,.33,.33,0
+146,Europe,Europe,Netherlands,2009,1,1.2,1,0,0,0,0,0,0,.33,.33,0
+146,Europe,Europe,Netherlands,2010,1.3,1.6,1,0,0,0,0,0,.33,0,.33,0
+146,Europe,Europe,Netherlands,2011,2,1.3,1,.5,0,0,0,0,.67,.33,.33,0
+146,Europe,Europe,Netherlands,2012,1.9,3.7,1,.5,0,0,0,0,.67,.33,.33,0
+146,Europe,Europe,Netherlands,2013,1.9,2.1,1,.5,0,0,0,0,.67,0,.33,0
+146,Europe,Europe,Netherlands,2014,1.4,2.9,1,0,0,0,0,0,.33,0,.33,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2007,.3,.4,0,0,0,0,0,0,0,.33,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2008,.4,1.3,0,0,0,0,0,0,0,0,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2009,.4,.3,0,0,0,0,0,0,0,0,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2010,.6,2.7,0,0,0,0,0,0,.33,.33,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2011,.6,1.2,0,0,0,0,0,0,.33,0,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2012,.2,1,0,0,0,0,0,0,0,0,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2013,.8,.9,0,0,0,0,0,0,.67,0,0,0
+149,Asia-Pacific,Asia-Pacific,New Zealand,2014,0,.4,0,0,0,0,0,0,0,0,0,0
+150,Americas,Latin America-Caribbean,Nicaragua,2007,2.1,.5,0,.5,0,0,1,1,.33,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2008,1.1,.5,0,.5,0,0,.5,0,.33,0,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2009,1.1,.1,0,.5,0,0,0,0,0,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2010,3.1,.6,0,0,1,0,0,1,.67,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2011,2.5,.9,0,0,1,0,0,.5,.67,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2012,2.7,.3,0,.5,1,0,0,1,.67,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2013,2.4,0,0,.5,1,0,0,1,0,.33,.33,0
+150,Americas,Latin America-Caribbean,Nicaragua,2014,2.6,.3,0,.5,1,0,0,1,0,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2007,1.7,1.5,0,0,0,0,0,1,.33,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2008,1.5,1.5,0,0,0,0,0,0,.33,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2009,2.2,.6,0,0,1,0,0,.5,0,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2010,3,1,0,.5,1,0,0,1,.67,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2011,2.3,1,0,.5,1,0,0,.5,.33,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2012,2,1.7,0,0,1,0,0,.5,.33,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2013,1.7,4,0,0,0,0,0,1,.33,.33,.33,0
+151,Sub-Saharan Africa,Sub-Saharan Africa,Niger,2014,1.4,2.6,0,0,0,0,0,.5,.67,.33,.33,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2007,3.7,4.4,0,0,1,0,1,1,.67,.33,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2008,3.6,7.1,0,0,1,0,1,0,.67,.33,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2009,4.5,8,1,0,1,1,.5,.5,.67,.33,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2010,5.8,7.8,1,0,1,0,1,.5,1,.33,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2011,5.6,8.300000000000001,0,0,1,0,1,1,.67,.67,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2012,4.5,8.5,0,0,1,0,0,.5,.67,.67,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2013,4.1,8.699999999999999,1,0,1,0,0,1,.67,.67,0,0
+152,Sub-Saharan Africa,Sub-Saharan Africa,Nigeria,2014,4.3,7.4,1,0,1,0,0,0,.67,.33,0,0
+156,Europe,Europe,Norway,2007,1.5,1,0,0,0,0,0,0,0,.33,.67,0
+156,Europe,Europe,Norway,2008,.8,1,0,0,0,0,0,0,0,0,.67,0
+156,Europe,Europe,Norway,2009,2,1.5,1,0,0,0,1,0,0,0,.67,0
+156,Europe,Europe,Norway,2010,2.4,1.7,1,0,0,0,0,0,.67,.33,.67,0
+156,Europe,Europe,Norway,2011,2.5,3.7,1,0,0,0,0,0,1,.33,.67,0
+156,Europe,Europe,Norway,2012,2.3,3.5,1,0,0,0,0,0,1,.33,.67,0
+156,Europe,Europe,Norway,2013,2.5,2.4,1,0,0,0,0,0,.67,.33,.67,0
+156,Europe,Europe,Norway,2014,2.6,2.5,1,0,0,0,0,0,.67,.33,.67,0
+157,Middle East-North Africa,Middle East-North Africa,Oman,2007,3.9,.3,0,.5,1,0,0,.5,.67,.67,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2008,5,.3,0,.5,1,1,.5,1,.67,.67,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2009,4.7,0,1,.5,1,1,.5,1,.67,.33,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2010,5.3,.6,1,.5,1,1,.5,1,.67,.33,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2011,5.5,.1,1,.5,1,1,1,.5,1,.33,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2012,6,.8,1,.5,1,1,1,1,1,.33,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2013,5.2,.1,1,.5,1,1,1,1,.67,.33,.67,.5
+157,Middle East-North Africa,Middle East-North Africa,Oman,2014,4.7,0,0,.5,1,1,1,1,.67,.33,.67,.5
+158,Asia-Pacific,Asia-Pacific,Pakistan,2007,5.8,8.9,0,.5,1,1,.5,.5,1,.67,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2008,7.2,7.9,1,.5,1,1,.5,.5,1,.67,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2009,7,9.800000000000001,0,.5,1,1,.5,.5,1,.67,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2010,6.3,9,0,.5,1,1,.5,.5,1,.67,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2011,7.3,10,1,.5,1,1,.5,.5,1,1,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2012,7.1,9.800000000000001,1,.5,1,1,.5,.5,1,1,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2013,6.4,8.800000000000001,0,.5,1,1,.5,.5,1,1,.67,0
+158,Asia-Pacific,Asia-Pacific,Pakistan,2014,6.5,8.1,0,.5,1,1,.5,.5,1,1,.67,0
+159,Asia-Pacific,Asia-Pacific,Palau,2007,.6,.3,0,0,0,0,0,0,0,.33,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2008,.4,.3,0,0,0,0,0,0,0,.33,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2009,.6,.4,0,0,0,0,0,0,0,.33,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2010,.2,0,0,0,0,0,0,0,0,0,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2011,.6,0,0,.5,0,0,0,0,0,.33,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2012,.7,0,0,0,0,0,0,0,0,.33,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2013,.2,0,0,0,0,0,0,0,0,0,0,0
+159,Asia-Pacific,Asia-Pacific,Palau,2014,.2,0,0,0,0,0,0,0,0,0,0,0
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2007,3.3,6.4,0,0,0,0,0,0,1,.33,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2008,3.3,6.2,0,0,0,0,0,.5,1,.33,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2009,3.5,6.9,0,.5,0,0,0,.5,.67,.33,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2010,3.5,7.7,0,.5,0,0,0,0,.67,.67,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2011,3.7,7.8,0,.5,0,0,.5,.5,.67,.67,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2012,3.6,9,0,.5,0,0,.5,.5,.67,.67,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2013,4.5,8.800000000000001,0,0,1,0,.5,.5,1,.67,.67,.5
+160,Middle East-North Africa,Middle East-North Africa,Palestinian territories,2014,4.2,7.6,0,0,1,0,.5,.5,1,.67,.67,.5
+161,Americas,Latin America-Caribbean,Panama,2007,.7,0,0,0,0,0,0,0,0,.33,.33,0
+161,Americas,Latin America-Caribbean,Panama,2008,.6,0,0,0,0,0,0,0,0,0,.33,0
+161,Americas,Latin America-Caribbean,Panama,2009,1.1,0,0,.5,0,0,0,0,0,.33,.33,0
+161,Americas,Latin America-Caribbean,Panama,2010,1.1,0,0,0,0,0,0,0,0,.33,.33,0
+161,Americas,Latin America-Caribbean,Panama,2011,.8,0,0,0,0,0,0,0,0,0,.67,0
+161,Americas,Latin America-Caribbean,Panama,2012,1.1,0,0,.5,0,0,0,0,0,0,.67,0
+161,Americas,Latin America-Caribbean,Panama,2013,1.3,0,0,.5,0,0,0,0,0,0,.67,0
+161,Americas,Latin America-Caribbean,Panama,2014,1.8,.1,1,.5,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2007,.8,0,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2008,.9,2.8,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2009,1.4,1.5,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2010,1.1,3.5,0,0,0,0,0,0,.33,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2011,.9,3.8,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2012,1.5,3.8,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2013,1,2.3,0,0,0,0,0,0,0,0,.67,0
+162,Asia-Pacific,Asia-Pacific,Papua New Guinea,2014,1.2,2.6,0,0,0,0,0,0,0,0,.67,0
+163,Americas,Latin America-Caribbean,Paraguay,2007,.6,.7,0,0,0,0,0,0,0,.33,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2008,1.6,1.2,0,.5,0,0,0,0,.33,.33,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2009,1.2,0,0,0,0,0,0,0,.67,0,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2010,1,.8,0,0,0,0,0,0,.33,0,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2011,1.1,.6,0,.5,0,0,0,0,0,0,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2012,1.2,1.5,0,0,0,0,0,0,0,0,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2013,1.1,1.6,0,0,0,0,0,0,0,0,.33,0
+163,Americas,Latin America-Caribbean,Paraguay,2014,1.3,1.6,0,.5,0,0,0,0,0,0,.33,0
+164,Americas,Latin America-Caribbean,Peru,2007,1.8,0,0,0,0,0,0,0,.33,.33,.67,0
+164,Americas,Latin America-Caribbean,Peru,2008,1.9,.5,0,.5,0,0,0,0,.33,0,.67,0
+164,Americas,Latin America-Caribbean,Peru,2009,1.5,0,0,0,0,0,0,0,0,0,.67,0
+164,Americas,Latin America-Caribbean,Peru,2010,2.6,0,0,.5,0,0,0,0,0,.33,.67,0
+164,Americas,Latin America-Caribbean,Peru,2011,2.1,.8,0,.5,0,0,0,0,.33,.33,.67,0
+164,Americas,Latin America-Caribbean,Peru,2012,2.1,1.2,0,.5,0,0,0,0,.33,.33,.67,0
+164,Americas,Latin America-Caribbean,Peru,2013,2.9,.6,0,.5,1,0,0,0,.33,.33,.67,0
+164,Americas,Latin America-Caribbean,Peru,2014,2.9,.8,0,.5,1,0,0,0,.33,.33,.67,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2007,1.6,3.7,0,0,0,0,0,0,0,.33,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2008,1.2,3.4,0,0,0,0,0,0,0,.33,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2009,.8,3,0,0,0,0,0,0,0,0,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2010,1.2,3.9,0,0,0,0,0,0,.33,0,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2011,.9,3.4,0,0,0,0,0,0,0,0,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2012,1,3.2,0,0,0,0,0,0,0,0,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2013,1,3.2,0,0,0,0,0,0,0,0,0,0
+165,Asia-Pacific,Asia-Pacific,Philippines,2014,.7,1.5,0,0,0,0,0,0,0,0,0,0
+167,Europe,Europe,Poland,2007,1,.9,0,0,0,0,0,0,0,.33,.67,0
+167,Europe,Europe,Poland,2008,1,2.1,0,0,0,0,0,0,0,0,.67,0
+167,Europe,Europe,Poland,2009,1.2,2.3,0,0,0,0,0,0,0,0,.67,0
+167,Europe,Europe,Poland,2010,1.7,1.7,0,0,0,0,0,0,.33,.33,.67,0
+167,Europe,Europe,Poland,2011,1.6,2.4,0,0,0,0,0,0,.67,.33,.67,0
+167,Europe,Europe,Poland,2012,2.2,3.5,0,0,1,0,0,0,.67,.33,.67,0
+167,Europe,Europe,Poland,2013,2.2,2.8,0,0,0,0,0,0,.67,.33,.67,0
+167,Europe,Europe,Poland,2014,2.8,1.3,1,0,0,0,0,0,.67,.33,.67,0
+168,Europe,Europe,Portugal,2007,.3,0,0,0,0,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2008,1,1,0,0,1,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2009,.1,.8,0,0,0,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2010,.8,.3,0,0,0,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2011,.8,0,0,0,0,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2012,1.3,.9,0,0,1,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2013,1.1,0,0,0,1,0,0,0,0,0,0,0
+168,Europe,Europe,Portugal,2014,.9,0,0,0,0,0,0,0,.33,0,0,0
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2007,3.3,.3,0,1,0,1,.5,0,.67,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2008,4.4,.3,0,1,1,1,.5,0,.67,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2009,5,.4,0,.5,1,1,.5,.5,.67,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2010,5.6,.4,0,.5,1,1,.5,1,.67,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2011,5.7,.4,0,1,1,1,.5,.5,1,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2012,6,.4,0,1,1,1,.5,1,1,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2013,6,.6,0,.5,1,1,.5,1,1,.67,.67,.5
+170,Middle East-North Africa,Middle East-North Africa,Qatar,2014,4.9,.6,0,.5,1,1,.5,1,1,.67,.67,.5
+172,Europe,Europe,Romania,2007,4.8,5.5,0,.5,1,0,.5,.5,.67,.67,.33,0
+172,Europe,Europe,Romania,2008,4,3.8,0,.5,1,0,.5,0,.67,.33,.33,0
+172,Europe,Europe,Romania,2009,3.9,4.1,0,.5,0,0,.5,0,.67,.33,.33,0
+172,Europe,Europe,Romania,2010,4.4,4,0,.5,1,0,.5,0,.67,.33,.33,0
+172,Europe,Europe,Romania,2011,4.5,4.9,0,.5,1,0,.5,0,.67,.67,.33,0
+172,Europe,Europe,Romania,2012,4,3.7,0,.5,0,0,.5,0,.67,.67,.33,0
+172,Europe,Europe,Romania,2013,4.5,5.3,0,.5,1,0,.5,0,.67,.67,.33,0
+172,Europe,Europe,Romania,2014,2.8,2.8,0,.5,0,0,0,0,.67,.67,.33,0
+173,Europe,Europe,Russia,2007,5.8,3.7,0,.5,1,0,.5,.5,.67,.33,.67,0
+173,Europe,Europe,Russia,2008,6.2,4.6,0,.5,1,0,.5,.5,.67,.33,.67,0
+173,Europe,Europe,Russia,2009,6.7,5.5,1,.5,1,0,0,.5,.67,.33,.67,0
+173,Europe,Europe,Russia,2010,7.2,7.3,1,.5,1,1,.5,.5,1,.67,.67,0
+173,Europe,Europe,Russia,2011,7,9,1,.5,1,0,.5,.5,1,.67,.67,0
+173,Europe,Europe,Russia,2012,7.7,8.800000000000001,1,.5,1,0,.5,.5,1,.67,.67,0
+173,Europe,Europe,Russia,2013,7.4,8.1,1,.5,1,0,0,.5,1,.67,.67,0
+173,Europe,Europe,Russia,2014,6.7,6.6,1,.5,1,0,.5,.5,1,.67,.67,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2007,2,0,0,0,0,0,0,0,.67,.33,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2008,2.1,0,0,0,0,0,0,.5,.67,.33,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2009,2.8,0,0,0,0,0,0,1,.67,.33,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2010,3.8,.8,1,0,1,0,0,1,.67,.33,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2011,3.1,0,1,.5,1,0,0,.5,.67,.67,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2012,5.1,.1,0,.5,1,0,.5,1,1,.67,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2013,4.8,0,0,.5,1,0,.5,1,.67,.67,.33,0
+174,Sub-Saharan Africa,Sub-Saharan Africa,Rwanda,2014,3.5,.8,0,.5,1,0,.5,1,.67,.67,.33,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2007,.6,.3,0,0,0,0,0,0,0,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2008,.5,.3,0,0,0,0,0,0,0,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2009,.5,.6,0,0,0,0,0,0,0,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2010,.7,.4,0,0,0,0,0,0,.33,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2011,1.3,.4,0,0,0,0,0,0,1,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2012,1.3,.4,0,0,0,0,0,0,1,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2013,2,.1,1,0,0,0,0,0,1,0,.67,0
+176,Americas,Latin America-Caribbean,St. Kitts and Nevis,2014,2,.1,1,0,0,0,0,0,1,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2007,.6,.3,0,0,0,0,0,0,0,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2008,.9,1.7,0,0,0,0,0,0,.33,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2009,.9,.8,0,0,0,0,0,0,.33,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2010,1.3,.4,0,0,0,0,0,0,.33,.33,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2011,1.5,.8,0,0,0,0,0,0,1,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2012,1.5,.4,0,0,0,0,0,0,1,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2013,1.8,0,0,.5,0,0,0,0,1,0,.67,0
+177,Americas,Latin America-Caribbean,St. Lucia,2014,1.8,0,0,.5,0,0,0,0,1,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2007,.6,.3,0,0,0,0,0,0,.33,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2008,.6,1,0,0,0,0,0,0,.33,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2009,.5,.4,0,0,0,0,0,0,.33,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2010,.7,.4,0,0,0,0,0,0,.33,.33,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2011,1.1,.4,0,0,0,0,0,0,1,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2012,.9,.4,0,0,0,0,0,0,1,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2013,1.6,.1,1,0,0,0,0,0,1,0,.67,0
+179,Americas,Latin America-Caribbean,St. Vincent and the Grenadines,2014,1.6,.1,1,0,0,0,0,0,1,0,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2007,.8,.4,0,0,0,0,0,0,.33,0,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2008,.5,1.4,0,0,0,0,0,0,0,0,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2009,.9,.3,0,0,1,0,0,0,0,0,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2010,1.4,0,0,0,1,0,0,0,0,.33,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2011,.8,2,0,0,0,0,0,0,0,.33,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2012,.8,3.1,0,0,0,0,0,0,0,.33,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2013,.8,2.2,0,0,0,0,0,0,0,.33,.67,0
+180,Asia-Pacific,Asia-Pacific,Samoa,2014,.8,2.2,0,0,0,0,0,0,0,.33,.67,0
+181,Europe,Europe,San Marino,2007,.1,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2008,.1,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2009,.2,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2010,.1,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2011,.1,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2012,.3,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2013,.3,0,0,0,0,0,0,0,0,0,0,0
+181,Europe,Europe,San Marino,2014,.3,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2007,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2008,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2009,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2010,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2011,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2012,.2,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2013,.3,0,0,0,0,0,0,0,0,0,0,0
+182,Sub-Saharan Africa,Sub-Saharan Africa,Sao Tome and Principe,2014,.2,0,0,0,0,0,0,0,0,0,0,0
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2007,8,7.2,1,1,1,1,.5,.5,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2008,8.699999999999999,6.3,1,1,1,1,.5,.5,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2009,7.9,6.2,1,.5,1,1,.5,1,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2010,8.6,7.2,1,1,1,1,.5,1,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2011,8.6,6.5,1,1,1,1,.5,1,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2012,8.6,6.4,1,1,1,1,.5,1,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2013,7.8,3.6,1,.5,1,1,.5,1,1,1,1,1
+183,Middle East-North Africa,Middle East-North Africa,Saudi Arabia,2014,7.6,3.6,1,1,1,1,.5,1,1,1,1,1
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2007,.5,0,0,0,0,0,0,0,0,0,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2008,.4,0,0,0,0,0,0,0,0,0,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2009,1.3,.3,0,.5,1,0,0,0,0,0,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2010,1.6,.2,0,0,1,0,0,0,0,0,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2011,1.5,3.3,0,.5,1,0,0,0,0,.33,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2012,1.4,2.6,0,.5,1,0,0,0,0,.33,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2013,1.2,1.7,0,.5,1,0,0,0,0,0,.33,0
+184,Sub-Saharan Africa,Sub-Saharan Africa,Senegal,2014,1.1,1,0,0,0,0,0,0,0,0,.33,0
+185,Europe,Europe,Serbia,2007,3.1,1.5,0,0,0,0,0,0,0,.33,.67,0
+185,Europe,Europe,Serbia,2008,3.7,5.2,0,0,0,0,0,0,.67,.67,.67,0
+185,Europe,Europe,Serbia,2009,4.7,3.1,0,0,1,0,.5,.5,.67,.67,.67,0
+185,Europe,Europe,Serbia,2010,3.5,4.7,0,0,1,0,0,0,.33,.33,.67,0
+185,Europe,Europe,Serbia,2011,4,4.8,0,0,1,0,0,0,.67,.67,.67,0
+185,Europe,Europe,Serbia,2012,3.6,3.4,0,0,1,0,0,0,.67,.67,.67,0
+185,Europe,Europe,Serbia,2013,3.4,2.3,0,0,1,0,0,0,.67,.33,.67,0
+185,Europe,Europe,Serbia,2014,3.8,1.5,0,0,1,0,0,0,.67,.33,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2007,1.3,0,0,0,1,0,0,0,0,.33,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2008,1.5,0,0,0,1,0,0,0,.33,0,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2009,1,0,0,0,1,0,0,0,0,0,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2010,1.3,0,0,0,1,0,0,0,0,.33,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2011,1.8,0,0,0,1,0,0,1,0,.33,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2012,2.2,0,0,0,1,0,0,1,.33,.33,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2013,2.3,0,0,0,1,0,0,1,0,0,.67,0
+186,Sub-Saharan Africa,Sub-Saharan Africa,Seychelles,2014,1.5,0,0,0,1,0,0,0,0,0,.67,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2007,0,0,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2008,0,3.5,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2009,0,.9,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2010,0,.5,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2011,.3,1.4,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2012,.3,1.5,0,0,0,0,0,0,0,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2013,1.4,1.9,0,0,0,0,0,0,1,0,0,0
+187,Sub-Saharan Africa,Sub-Saharan Africa,Sierra Leone,2014,.8,0,0,0,1,0,0,0,0,0,0,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2007,4.6,.2,0,.5,1,0,1,.5,1,.33,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2008,5,.2,0,.5,1,0,1,.5,1,.67,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2009,4,.2,0,.5,1,0,.5,.5,.67,.33,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2010,5,.2,0,.5,1,0,1,1,1,.67,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2011,6,.4,0,.5,1,0,1,1,1,.67,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2012,5.3,.4,0,.5,1,0,1,1,1,.67,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2013,6.6,1,1,.5,1,0,1,1,1,.67,.67,0
+188,Asia-Pacific,Asia-Pacific,Singapore,2014,6.4,.2,1,.5,1,0,1,1,1,.67,.67,0
+189,Europe,Europe,Slovakia,2007,2.8,1.9,0,0,1,0,0,0,.33,.33,.67,0
+189,Europe,Europe,Slovakia,2008,2.8,1.7,0,0,1,0,.5,0,.33,.33,.67,0
+189,Europe,Europe,Slovakia,2009,3,3.3,0,0,1,0,1,0,0,.33,.67,0
+189,Europe,Europe,Slovakia,2010,2.6,1,0,0,1,0,.5,0,.67,.33,.67,0
+189,Europe,Europe,Slovakia,2011,3.2,1.9,0,0,1,0,.5,.5,.67,.33,.67,0
+189,Europe,Europe,Slovakia,2012,3.4,1,0,0,1,0,.5,.5,.67,.33,.67,0
+189,Europe,Europe,Slovakia,2013,3,1.5,0,0,1,0,0,.5,.67,.33,.67,0
+189,Europe,Europe,Slovakia,2014,3.4,1.4,0,0,1,0,0,.5,.67,.33,.67,0
+190,Europe,Europe,Slovenia,2007,.6,1,0,0,0,0,0,0,0,0,0,0
+190,Europe,Europe,Slovenia,2008,1.1,.9,0,0,0,0,0,0,.33,.33,0,0
+190,Europe,Europe,Slovenia,2009,1,.9,0,0,0,0,0,0,0,0,0,0
+190,Europe,Europe,Slovenia,2010,1,.4,0,0,0,0,0,0,0,0,0,0
+190,Europe,Europe,Slovenia,2011,.6,1.3,0,0,0,0,0,0,0,0,0,0
+190,Europe,Europe,Slovenia,2012,.9,2.3,0,0,0,0,0,0,.33,0,0,0
+190,Europe,Europe,Slovenia,2013,.7,.9,0,0,0,0,0,0,0,0,0,0
+190,Europe,Europe,Slovenia,2014,1,0,0,0,0,0,0,0,0,0,0,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2007,.6,.4,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2008,.7,.3,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2009,.6,.3,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2010,1,0,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2011,.7,.8,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2012,.9,.6,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2013,1,.6,0,0,0,0,0,0,0,0,.67,0
+191,Asia-Pacific,Asia-Pacific,Solomon Islands,2014,1,.6,0,0,0,0,0,0,0,0,.67,0
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2007,4.4,7.4,0,.5,0,1,.5,.5,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2008,4.7,7.4,0,.5,1,1,.5,0,1,1,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2009,6.2,8.5,0,.5,1,1,.5,.5,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2010,5.2,8.1,1,0,1,1,.5,0,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2011,7.4,7.8,1,1,1,1,.5,1,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2012,7.8,9.5,1,1,1,1,.5,1,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2013,4,7.8,0,0,0,1,.5,.5,1,.67,.67,.5
+192,Sub-Saharan Africa,Sub-Saharan Africa,Somalia,2014,2.9,7.1,0,0,1,0,.5,0,.67,.67,.67,.5
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2007,.6,2.2,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2008,.9,2.8,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2009,1,.7,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2010,.7,4.4,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2011,.7,3.7,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2012,.5,3.3,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2013,.7,1,0,0,0,0,0,0,0,0,.67,0
+193,Sub-Saharan Africa,Sub-Saharan Africa,South Africa,2014,.8,2.4,0,0,0,0,0,0,0,0,.67,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2007,1.6,0,0,0,0,0,0,0,0,.33,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2008,1.4,0,0,0,0,0,0,0,.33,0,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2009,1.2,0,0,0,0,0,0,0,.67,0,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2010,1.9,0,0,0,0,0,0,0,.67,.33,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2011,1.8,.3,0,0,0,0,0,0,1,.33,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2012,1.8,.3,0,0,0,0,0,0,1,.33,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2013,2,.3,0,0,0,0,0,0,1,.33,0,0
+194,Asia-Pacific,Asia-Pacific,South Korea,2014,2,.9,0,0,0,0,0,0,1,.33,0,0
+195,Europe,Europe,Spain,2007,2,1.6,0,0,0,0,0,0,.67,.33,.33,0
+195,Europe,Europe,Spain,2008,1.9,2,0,0,0,0,0,0,.67,.33,.33,0
+195,Europe,Europe,Spain,2009,1.1,1.9,0,0,0,0,0,0,.33,.33,.33,0
+195,Europe,Europe,Spain,2010,2.7,2.1,1,0,0,0,0,0,.67,.33,.33,0
+195,Europe,Europe,Spain,2011,2.9,2.8,1,0,0,0,0,.5,.67,.33,.33,0
+195,Europe,Europe,Spain,2012,2.8,2.5,1,0,0,0,0,.5,.67,.33,.33,0
+195,Europe,Europe,Spain,2013,3,2.4,1,0,0,0,0,.5,.67,.33,.33,0
+195,Europe,Europe,Spain,2014,3,1,1,0,0,0,0,.5,.67,.33,.33,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2007,4,7.8,0,.5,0,0,1,0,.67,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2008,4.2,6.5,0,.5,0,0,0,0,.67,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2009,3.7,6.2,0,.5,0,0,0,0,.67,.33,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2010,6,8.300000000000001,0,.5,1,1,1,.5,.67,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2011,5.4,7.1,0,.5,1,1,0,0,1,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2012,5.9,7.7,0,.5,1,1,.5,.5,1,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2013,5.3,8.300000000000001,0,.5,1,0,0,.5,1,.67,.67,0
+196,Asia-Pacific,Asia-Pacific,Sri Lanka,2014,5,8,1,.5,0,0,.5,.5,1,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2007,5.7,6.5,0,.5,1,1,.5,1,1,.33,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2008,5.7,7.1,0,.5,0,1,.5,1,1,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2009,5.3,5.6,0,1,1,1,.5,0,.67,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2010,5.4,5,1,.5,1,1,.5,1,.67,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2011,6.6,7.8,1,.5,1,1,.5,1,.67,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2012,6.9,8.300000000000001,1,.5,1,1,.5,1,.67,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2013,7,6.5,1,1,1,1,.5,.5,1,.67,.67,0
+197,Middle East-North Africa,Middle East-North Africa,Sudan,2014,6.4,6.4,1,1,1,1,.5,.5,1,.67,.67,0
+198,Americas,Latin America-Caribbean,Suriname,2007,0,0,0,0,0,0,0,0,0,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2008,.2,0,0,0,0,0,0,0,0,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2009,.7,0,1,0,0,0,0,0,0,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2010,.9,.4,1,0,0,0,0,0,.33,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2011,1.3,.6,1,0,0,0,0,0,1,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2012,.5,.6,0,0,0,0,0,0,1,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2013,.2,.6,0,0,0,0,0,0,0,0,0,0
+198,Americas,Latin America-Caribbean,Suriname,2014,.2,0,0,0,0,0,0,0,0,0,0,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2007,1.5,0,0,0,1,0,0,0,0,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2008,1.7,0,0,0,1,0,0,0,0,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2009,1.6,1.8,0,0,1,0,0,0,0,0,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2010,2.4,.5,0,0,1,0,0,0,.67,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2011,2.4,3.1,0,0,1,0,0,0,.67,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2012,2.1,3,0,0,1,0,0,0,.67,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2013,2.1,3.1,0,0,1,0,0,0,.67,.33,.67,0
+199,Sub-Saharan Africa,Sub-Saharan Africa,Swaziland,2014,2.1,2,0,0,1,0,0,0,.67,.33,.67,0
+200,Europe,Europe,Sweden,2007,1.2,.7,0,0,0,0,0,0,.33,0,.67,.5
+200,Europe,Europe,Sweden,2008,1.5,1.7,0,0,0,0,0,0,.33,0,.67,.5
+200,Europe,Europe,Sweden,2009,1.7,3,0,0,0,0,0,0,.67,.33,.67,.5
+200,Europe,Europe,Sweden,2010,1.5,2.4,0,0,0,0,0,0,.33,0,.67,.5
+200,Europe,Europe,Sweden,2011,2.1,3.9,0,0,0,0,0,0,.67,0,.67,.5
+200,Europe,Europe,Sweden,2012,1.9,4.2,0,0,0,0,0,0,.67,0,.67,.5
+200,Europe,Europe,Sweden,2013,3.6,4.2,1,0,0,0,0,0,.67,.33,.67,.5
+200,Europe,Europe,Sweden,2014,2.4,4.6,0,0,0,0,0,0,.67,.33,.67,.5
+201,Europe,Europe,Switzerland,2007,1.2,1.7,0,.5,0,0,0,0,.33,.33,0,0
+201,Europe,Europe,Switzerland,2008,.9,2.1,0,0,0,0,0,0,0,.33,0,0
+201,Europe,Europe,Switzerland,2009,1.5,2.5,0,.5,0,0,0,0,1,0,0,0
+201,Europe,Europe,Switzerland,2010,2.3,2.9,1,.5,0,0,0,0,.67,.33,.67,0
+201,Europe,Europe,Switzerland,2011,2.2,3.3,0,.5,0,0,0,0,1,.33,.67,0
+201,Europe,Europe,Switzerland,2012,2.1,2.7,0,.5,0,0,0,0,1,.33,.67,0
+201,Europe,Europe,Switzerland,2013,2.6,1.9,1,.5,0,0,0,0,1,.33,.67,0
+201,Europe,Europe,Switzerland,2014,2.4,1.7,1,.5,0,0,0,.5,.67,.33,.67,0
+202,Middle East-North Africa,Middle East-North Africa,Syria,2007,4.5,5.3,0,.5,1,0,.5,0,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2008,5.8,5.6,0,.5,1,1,.5,.5,1,.33,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2009,7.1,5.1,0,.5,1,1,.5,.5,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2010,7.3,3.3,1,.5,1,1,.5,.5,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2011,7.5,5.8,1,.5,1,1,1,.5,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2012,8,8.800000000000001,1,.5,1,1,1,1,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2013,7.4,7.8,0,.5,1,1,1,1,1,.67,.67,.5
+202,Middle East-North Africa,Middle East-North Africa,Syria,2014,7.6,8.300000000000001,0,.5,1,1,1,1,1,1,.67,.5
+203,Asia-Pacific,Asia-Pacific,Taiwan,2007,.5,0,0,0,0,0,0,0,0,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2008,.5,0,0,0,0,0,0,0,0,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2009,.8,0,0,0,0,0,0,0,0,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2010,1,0,0,0,0,0,0,0,0,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2011,.6,0,0,.5,0,0,0,0,.33,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2012,1.2,0,0,.5,0,0,0,0,.33,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2013,.9,0,0,.5,0,0,0,0,.33,0,0,0
+203,Asia-Pacific,Asia-Pacific,Taiwan,2014,.7,0,0,0,0,0,0,0,.33,0,0,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2007,4.5,2.2,1,0,1,1,0,.5,1,.33,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2008,6.4,1.1,1,.5,1,1,.5,.5,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2009,7,2.2,1,.5,1,1,.5,1,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2010,6.5,2.3,1,.5,1,0,1,.5,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2011,5.6,2.2,1,.5,1,0,.5,.5,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2012,7.2,2.4,1,.5,1,0,1,1,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2013,6.8,2.2,1,.5,1,0,1,1,1,.67,.33,0
+204,Asia-Pacific,Asia-Pacific,Tajikistan,2014,6.6,1.1,1,.5,1,0,1,.5,1,.67,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2007,2.1,3.5,0,0,0,0,0,1,.67,0,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2008,3.8,2.4,1,0,1,0,0,1,.67,.33,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2009,2.4,.9,0,.5,1,0,0,1,.67,0,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2010,3.9,5.1,0,.5,1,0,0,1,.67,.33,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2011,3.7,5.4,0,.5,1,0,0,1,.67,.33,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2012,3.4,6,0,0,1,0,0,1,.67,.33,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2013,3.3,7.8,0,.5,1,0,0,1,.67,.33,.33,0
+205,Sub-Saharan Africa,Sub-Saharan Africa,Tanzania,2014,3.1,3.4,0,.5,1,0,0,0,.67,0,.33,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2007,2.6,2.6,1,0,0,0,0,0,.67,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2008,4,2.8,1,.5,0,0,0,0,.67,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2009,3.4,4.6,1,.5,1,0,0,.5,0,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2010,3.5,5.5,1,.5,1,0,0,0,.33,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2011,3.4,6.1,0,.5,1,0,0,0,0,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2012,3.6,7.5,0,.5,1,0,0,0,0,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2013,4.4,6.2,1,.5,1,0,0,0,0,.33,.67,0
+206,Asia-Pacific,Asia-Pacific,Thailand,2014,4.4,5.9,0,0,1,0,0,0,.67,1,1,1
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2007,.9,4.2,0,0,0,0,0,0,0,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2008,.3,2.4,0,0,0,0,0,0,0,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2009,0,4.2,0,0,0,0,0,0,0,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2010,.5,2.9,0,0,0,0,0,0,0,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2011,1,3.5,0,.5,0,0,0,0,.33,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2012,1.1,1.8,0,.5,0,0,0,0,.33,0,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2013,1.4,3.1,0,.5,0,0,0,0,0,.33,0,0
+207,Asia-Pacific,Asia-Pacific,Timor-Leste,2014,1.5,2.3,0,.5,0,0,0,0,.67,.33,0,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2007,2.8,0,0,.5,1,0,0,1,.33,.33,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2008,.9,0,0,0,1,0,0,0,0,0,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2009,1.2,0,0,0,1,0,0,0,0,0,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2010,1.4,.3,0,0,1,0,0,0,0,0,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2011,1.7,.3,0,0,1,0,0,0,0,.33,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2012,1.7,.3,0,0,1,0,0,0,.33,.33,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2013,1.5,0,0,0,1,0,0,0,0,0,.33,0
+208,Sub-Saharan Africa,Sub-Saharan Africa,Togo,2014,1.9,.3,0,0,1,0,0,0,0,.33,.33,0
+210,Asia-Pacific,Asia-Pacific,Tonga,2007,2,0,0,0,1,0,0,.5,0,.33,.67,.5
+210,Asia-Pacific,Asia-Pacific,Tonga,2008,1.7,0,0,0,1,0,0,.5,0,0,.67,.5
+210,Asia-Pacific,Asia-Pacific,Tonga,2009,1.6,0,0,0,1,0,0,.5,0,0,.67,.5
+210,Asia-Pacific,Asia-Pacific,Tonga,2010,1.8,0,0,0,1,0,0,.5,0,.33,.67,.5
+210,Asia-Pacific,Asia-Pacific,Tonga,2011,1.7,0,0,0,1,0,0,.5,0,.33,.67,0
+210,Asia-Pacific,Asia-Pacific,Tonga,2012,1.6,0,0,0,1,0,0,.5,0,.33,.67,0
+210,Asia-Pacific,Asia-Pacific,Tonga,2013,1.8,0,0,0,1,0,0,1,0,.33,.67,0
+210,Asia-Pacific,Asia-Pacific,Tonga,2014,1.8,0,0,0,1,0,0,1,0,.33,.67,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2007,.3,.6,0,0,0,0,0,0,0,0,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2008,1.1,2.2,1,.5,0,0,0,0,0,0,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2009,.6,.9,0,.5,0,0,0,0,0,0,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2010,.9,1.2,0,.5,0,0,0,0,.33,0,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2011,1.2,.8,0,.5,0,0,0,0,.67,.33,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2012,1.2,0,0,.5,0,0,0,0,.67,.33,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2013,1.1,0,0,.5,0,0,0,0,.33,0,0,0
+211,Americas,Latin America-Caribbean,Trinidad and Tobago,2014,1.1,0,0,.5,0,0,0,0,.33,0,0,0
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2007,4.8,3.8,1,.5,1,1,.5,.5,.67,.33,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2008,5.9,2.4,1,.5,1,1,.5,.5,.67,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2009,5.2,1.5,1,.5,1,0,.5,.5,.67,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2010,7.7,1,1,.5,1,1,.5,.5,1,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2011,5.8,3.5,1,0,1,1,.5,0,1,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2012,5.1,6.8,0,.5,1,1,.5,.5,1,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2013,4.9,5.8,0,.5,1,0,.5,.5,.67,.67,.67,.5
+212,Middle East-North Africa,Middle East-North Africa,Tunisia,2014,4.7,5.5,0,0,1,1,.5,.5,.67,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2007,6.6,4.7,1,.5,1,0,.5,1,1,.33,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2008,6.2,5.1,1,.5,1,1,.5,.5,1,.33,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2009,6.4,4.4,1,1,0,1,.5,.5,1,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2010,5.8,4.9,1,.5,1,1,.5,.5,.67,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2011,5.3,4.2,1,.5,0,1,.5,1,.67,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2012,6.4,5.5,1,.5,0,1,1,1,1,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2013,7.4,4.5,1,.5,1,1,1,1,1,.67,.67,.5
+213,Asia-Pacific,Asia-Pacific,Turkey,2014,8.1,5.1,1,.5,1,1,1,1,1,.67,.67,.5
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2007,5.6,1.5,0,1,1,0,.5,.5,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2008,6.5,.9,1,1,1,0,.5,.5,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2009,6.7,1.2,1,1,1,0,1,1,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2010,5.6,1.2,1,1,1,0,.5,1,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2011,6.2,.8,1,1,1,0,.5,.5,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2012,5.8,.6,1,1,1,0,.5,.5,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2013,6.4,.4,1,1,1,0,1,.5,1,.67,0,0
+214,Asia-Pacific,Asia-Pacific,Turkmenistan,2014,7.1,1,1,1,1,0,1,.5,1,.67,0,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2007,1.8,2.1,0,0,0,0,0,0,1,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2008,2.9,1,0,.5,0,0,.5,0,1,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2009,2.9,2.8,0,.5,0,0,.5,0,1,.67,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2010,2.9,1.7,0,.5,0,0,.5,0,.33,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2011,1.6,1.8,0,.5,0,0,.5,0,0,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2012,3.3,3.7,0,.5,0,0,.5,.5,1,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2013,3.3,3.7,0,.5,0,0,.5,.5,1,.33,.67,0
+216,Asia-Pacific,Asia-Pacific,Tuvalu,2014,3.1,2.6,0,.5,0,0,.5,.5,1,.33,.67,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2007,2.4,.4,0,0,0,0,0,0,.67,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2008,2.8,2.1,0,0,0,0,0,0,.67,.67,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2009,4.1,.3,0,0,0,0,0,0,1,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2010,3.4,5.8,0,0,0,0,0,0,.67,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2011,2.9,6.5,0,0,0,0,0,0,.67,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2012,2.5,6.3,0,0,0,0,0,0,.67,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2013,3.7,4.1,0,0,0,0,0,0,1,.33,.33,0
+217,Sub-Saharan Africa,Sub-Saharan Africa,Uganda,2014,4.8,4.2,1,0,1,0,0,0,1,.33,.33,0
+218,Europe,Europe,Ukraine,2007,2.6,1.9,0,.5,0,0,.5,.5,.33,0,.67,0
+218,Europe,Europe,Ukraine,2008,2.6,3.3,0,.5,0,0,.5,.5,0,.33,.67,0
+218,Europe,Europe,Ukraine,2009,2.1,2.1,0,.5,0,0,0,0,.33,.33,.67,0
+218,Europe,Europe,Ukraine,2010,4,4,1,.5,0,0,0,1,.33,.33,.67,0
+218,Europe,Europe,Ukraine,2011,3.9,3.5,1,.5,0,0,0,1,.67,1,.67,0
+218,Europe,Europe,Ukraine,2012,4.4,4.1,1,.5,0,0,0,1,.67,1,.67,0
+218,Europe,Europe,Ukraine,2013,4.1,2.9,1,.5,0,0,0,1,.67,.67,.67,0
+218,Europe,Europe,Ukraine,2014,4,4.7,0,.5,1,0,0,1,.67,.67,.67,0
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2007,3.9,.1,0,.5,1,1,.5,.5,.33,.33,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2008,4.4,.6,0,.5,1,1,.5,.5,.33,.33,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2009,4.2,.8,1,.5,1,1,.5,.5,0,.33,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2010,4.3,.8,0,.5,1,1,.5,.5,.67,.67,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2011,5.5,.8,0,.5,1,1,.5,1,.67,.67,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2012,6,1.7,0,.5,1,1,.5,1,.67,.67,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2013,4.6,1.5,0,0,1,1,.5,.5,.67,.67,.67,.5
+219,Middle East-North Africa,Middle East-North Africa,United Arab Emirates,2014,4.2,1.9,0,0,1,1,.5,.5,.67,.67,.67,.5
+220,Europe,Europe,United Kingdom,2007,1.6,1.6,0,0,1,0,0,0,.33,.33,.33,0
+220,Europe,Europe,United Kingdom,2008,2.8,3.4,1,0,1,0,.5,0,.33,.33,.33,0
+220,Europe,Europe,United Kingdom,2009,2.8,3.8,1,.5,1,0,0,0,.33,0,.33,0
+220,Europe,Europe,United Kingdom,2010,4.3,6.2,1,.5,1,1,0,1,.67,.33,.33,0
+220,Europe,Europe,United Kingdom,2011,3,6.3,1,.5,1,0,0,0,.33,.33,.33,0
+220,Europe,Europe,United Kingdom,2012,3,6,1,.5,1,0,0,0,.67,.33,.33,0
+220,Europe,Europe,United Kingdom,2013,1.7,5.4,0,.5,1,0,0,0,0,0,.33,0
+220,Europe,Europe,United Kingdom,2014,1.6,4.4,0,.5,1,0,0,0,0,0,.33,0
+221,Americas,North America,United States,2007,1.6,1.9,1,0,0,0,0,0,.33,.33,0,0
+221,Americas,North America,United States,2008,1.6,1.8,1,0,0,0,0,0,.33,.33,0,0
+221,Americas,North America,United States,2009,1.6,2,1,0,0,0,0,0,.33,.33,0,0
+221,Americas,North America,United States,2010,2.7,3.4,1,0,0,1,0,0,.67,.33,0,0
+221,Americas,North America,United States,2011,3,2.4,1,0,1,1,0,0,.67,.33,0,0
+221,Americas,North America,United States,2012,3.7,1.9,1,0,1,1,1,0,.67,.33,0,0
+221,Americas,North America,United States,2013,3,3.1,1,0,1,1,0,0,.67,.33,0,0
+221,Americas,North America,United States,2014,2.7,5.2,1,0,0,0,0,1,.67,.33,0,0
+223,Americas,Latin America-Caribbean,Uruguay,2007,.3,.6,0,0,0,0,0,0,0,0,.33,0
+223,Americas,Latin America-Caribbean,Uruguay,2008,.5,.5,0,0,0,0,0,0,0,0,.33,0
+223,Americas,Latin America-Caribbean,Uruguay,2009,.3,0,0,0,0,0,0,0,0,0,.33,0
+223,Americas,Latin America-Caribbean,Uruguay,2010,.3,0,0,0,0,0,0,0,0,0,.33,0
+223,Americas,Latin America-Caribbean,Uruguay,2011,.8,0,0,0,0,0,0,0,0,0,.67,.5
+223,Americas,Latin America-Caribbean,Uruguay,2012,.8,.8,0,0,0,0,0,0,0,0,.67,.5
+223,Americas,Latin America-Caribbean,Uruguay,2013,.8,.3,0,0,0,0,0,0,0,0,.67,.5
+223,Americas,Latin America-Caribbean,Uruguay,2014,.8,.3,0,0,0,0,0,0,0,0,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2007,7.7,3.3,1,1,1,1,1,.5,1,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2008,8.199999999999999,2.9,1,1,1,1,1,.5,1,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2009,8.199999999999999,1.7,1,1,1,1,1,1,1,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2010,7.9,2.2,1,1,1,0,1,.5,1,1,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2011,7,2,1,.5,1,0,1,.5,.67,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2012,7.6,2,1,1,1,0,1,.5,1,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2013,8.300000000000001,1.5,1,1,1,0,1,.5,1,.67,.67,.5
+224,Asia-Pacific,Asia-Pacific,Uzbekistan,2014,8.199999999999999,1.6,1,1,1,1,1,.5,1,.67,.67,.5
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2007,1,1,0,0,0,0,0,0,0,.33,.33,0
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2008,.8,2,0,0,0,0,0,0,0,0,.33,0
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2009,1,0,0,0,0,0,0,0,0,0,.33,0
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2010,1,.4,0,0,0,0,0,0,0,0,.33,0
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2011,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2012,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2013,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+225,Asia-Pacific,Asia-Pacific,Vanuatu,2014,1.2,0,0,0,0,0,0,0,0,0,.67,.5
+226,Americas,Latin America-Caribbean,Venezuela,2007,3.6,.8,0,.5,1,0,0,1,.67,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2008,2.8,2.1,0,.5,0,0,.5,0,.67,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2009,2.5,1.2,0,.5,0,0,0,0,0,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2010,3.5,.8,0,.5,0,0,1,0,0,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2011,3.3,1.5,0,.5,1,0,0,0,.67,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2012,3.9,1.9,0,.5,1,0,0,0,.67,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2013,2.9,.7,0,0,1,0,0,0,.33,.33,.67,0
+226,Americas,Latin America-Caribbean,Venezuela,2014,2.9,1,0,0,1,0,0,0,.33,.33,.67,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2007,6.6,1.2,1,.5,1,1,.5,.5,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2008,6,2.6,1,.5,1,1,1,0,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2009,6.3,5,1,1,1,1,1,1,1,.33,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2010,7,4,1,.5,1,1,1,.5,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2011,6.6,4.6,0,.5,1,1,.5,.5,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2012,6.7,5.6,0,.5,1,1,.5,.5,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2013,6.1,3.6,0,0,1,1,.5,.5,1,.67,.33,0
+227,Asia-Pacific,Asia-Pacific,Vietnam,2014,6.1,2.7,0,.5,1,1,.5,.5,1,.67,.33,0
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2007,4.8,3.3,0,.5,1,1,.5,.5,.67,.33,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2008,4.8,.2,0,.5,1,1,1,.5,.67,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2009,5.2,2.6,0,.5,1,0,.5,.5,.67,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2010,5.9,0,0,.5,1,1,.5,1,.67,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2011,5.3,.2,0,.5,1,1,.5,.5,0,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2012,6.1,0,0,.5,1,1,.5,1,1,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2013,6.2,0,0,.5,1,1,.5,.5,1,.67,.67,.5
+229,Middle East-North Africa,Middle East-North Africa,Western Sahara,2014,6.2,1,0,.5,1,1,.5,.5,1,.67,.67,.5
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2007,4.3,6.2,0,.5,1,1,.5,.5,1,.33,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2008,5.4,6.1,0,.5,1,1,.5,.5,1,.67,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2009,6.4,7.3,0,.5,1,1,.5,.5,.67,.67,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2010,7,7.8,0,.5,1,1,.5,.5,1,1,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2011,6.9,7.6,0,.5,1,1,.5,.5,1,1,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2012,6.3,8.4,0,.5,1,1,.5,.5,1,1,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2013,5.8,7.1,0,.5,1,1,.5,.5,1,1,1,1
+230,Middle East-North Africa,Middle East-North Africa,Yemen,2014,4.7,8.1,0,.5,1,1,.5,0,0,1,1,1
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2007,2,0,0,0,0,0,0,0,.33,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2008,1.3,0,0,0,0,0,0,0,0,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2009,1.7,1.8,0,0,1,0,0,0,0,0,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2010,2.5,2.3,0,0,1,0,0,0,0,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2011,1.8,1.7,0,0,1,0,0,0,0,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2012,3,3.1,0,.5,1,0,0,.5,.33,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2013,2.9,1.5,0,0,1,0,0,0,.33,.33,.67,0
+231,Sub-Saharan Africa,Sub-Saharan Africa,Zambia,2014,3.2,2.7,0,0,1,0,0,.5,.67,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2007,2.9,1.2,0,.5,1,0,0,1,.33,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2008,3.2,2.9,0,.5,0,0,0,1,.67,.67,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2009,3.7,1.5,0,.5,0,0,0,1,.67,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2010,4.4,2.2,0,.5,1,0,0,1,1,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2011,3.6,1.7,0,.5,1,0,0,0,.67,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2012,2.5,1.5,0,0,1,0,0,0,.67,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2013,2.8,1.5,0,0,1,0,0,1,.67,.33,.67,0
+232,Sub-Saharan Africa,Sub-Saharan Africa,Zimbabwe,2014,3.4,2.4,0,0,1,0,0,0,.67,.33,.67,0
+237,Sub-Saharan Africa,Sub-Saharan Africa,South Sudan,2011,1.2,1.2,0,0,0,0,0,0,.33,.33,.33,0
+237,Sub-Saharan Africa,Sub-Saharan Africa,South Sudan,2012,1.5,3,0,0,0,0,0,0,.33,.33,.33,0
+237,Sub-Saharan Africa,Sub-Saharan Africa,South Sudan,2013,3.4,2.4,0,.5,1,0,0,0,.33,.33,.33,0
+237,Sub-Saharan Africa,Sub-Saharan Africa,South Sudan,2014,2.4,2.3,0,0,1,0,0,0,.33,.33,.33,0
