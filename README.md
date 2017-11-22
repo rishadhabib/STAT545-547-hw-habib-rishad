@@ -33,7 +33,7 @@ GitHub repository for STAT 545A homework submissions
   
 - 8th homework submission - [hw08](hw08-shinyapp)
   + [Readme file](hw08-shinyapp/README.md)
-  + [Shiny App]()
+  + [Shiny App](https://rishadhabib.shinyapps.io/hw08-shinyapp/)
 
 
 ![How I do homework =P](https://i.pinimg.com/originals/08/0f/4c/080f4c345ee2595b70b2ec4cdfcf1980.jpg)

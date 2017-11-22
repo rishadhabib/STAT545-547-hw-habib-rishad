@@ -5,6 +5,11 @@ library(shiny)
 library(ggplot2)
 library(dplyr)
 
+# read data
+# this is data from pew research publicly available at http://www.pewforum.org/dataset/global-restrictions-on-religion-2007-2014/
+
+relig <- read.csv("global-religious-restrictions.csv", stringsAsFactors = FALSE)
+
 # Define server logic required to draw the plot
 
 shinyServer(function(input, output) {
@@ -30,10 +35,14 @@ shinyServer(function(input, output) {
 
 	# plotting the data for one country
 	output$plot1 <- renderPlot({
+		if (is.null(filtered())) {
+			return()
+		}
+		
 		ggplot(filtered(), aes(y=GRI, x=Question_Year)) +
 			geom_point(size = 5, colour = "red") + 
 			geom_line(colour="red") +
-			scale_y_continuous(limits =c(0,10)) +			# adding max and min limits for the y axis for easier comparisons
+			scale_y_continuous(limits =c(0,10)) +			# adding max and min limits for the y axis for easier comparison
 			theme_minimal()
 	})
 	

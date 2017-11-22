@@ -1,10 +1,12 @@
 name: hw08-shinyapp
-title:
+title: hw08-shinyapp
 username:
 account: rishadhabib
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 238825
-bundleId: 1089916
+bundleId: 1089984
 url: https://rishadhabib.shinyapps.io/hw08-shinyapp/
-when: 1511341536.80495
+when: 1511344506.34484
+asMultiple: FALSE
+asStatic: FALSE

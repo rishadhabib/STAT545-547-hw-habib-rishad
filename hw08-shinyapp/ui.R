@@ -4,10 +4,8 @@ library(shiny)
 library(stringr)
 library(ggplot2)
 library(dplyr)
+library(RCurl)
 
-# read data
-# this is data from pew research publicly available at http://www.pewforum.org/dataset/global-restrictions-on-religion-2007-2014/
-relig <- read.csv("http://raw.githubusercontent.com/rishadhabib/STAT545-547-hw-habib-rishad/master/hw08-shinyapp/global-religious-restrictions.csv", stringsAsFactors = FALSE)
 
 # Define UI for application that draws a plot
 shinyUI(fluidPage(
