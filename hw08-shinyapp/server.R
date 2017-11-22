@@ -4,6 +4,7 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
+library(shinythemes)
 
 # read data
 # this is data from pew research publicly available at http://www.pewforum.org/dataset/global-restrictions-on-religion-2007-2014/
@@ -21,6 +22,12 @@ shinyServer(function(input, output) {
 					selected = "Canada")
 	})
 	
+	output$country2Output <- renderUI({
+		selectInput("country2Input", "Country2",
+					sort(unique(relig$Country)),
+					selected = "Bangladesh")
+	})
+	
 	# creating the filter based on input
 	filtered <- reactive({
 		if (is.null(input$countryInput)) {
@@ -29,7 +36,7 @@ shinyServer(function(input, output) {
 		relig %>%
 			filter(Question_Year >= input$yearInput[1],
 				   Question_Year <= input$yearInput[2],
-				   Country == input$countryInput
+				   Country %in% c(input$countryInput, input$country2Input)
 			)
 	})
 
@@ -39,9 +46,11 @@ shinyServer(function(input, output) {
 			return()
 		}
 		
-		ggplot(filtered(), aes(y=GRI, x=Question_Year)) +
-			geom_point(size = 5, colour = "red") + 
-			geom_line(colour="red") +
+		# filtered %>%
+		# 	group_by(Country) %>%
+			ggplot(filtered()) +
+			geom_point(aes(y=GRI, x=Question_Year, group = Country), size = 5, colour = "blue") + 
+			geom_line(aes(y=GRI, x=Question_Year, group = Country), colour="red") +
 			scale_y_continuous(limits =c(0,10)) +			# adding max and min limits for the y axis for easier comparison
 			theme_minimal()
 	})
