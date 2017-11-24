@@ -5,7 +5,6 @@ This repo contains the **8th** homework submission for STAT 547
 
 
 ## Contents:
-- [HW 08 markdown file](hw06-data-wrangling.md)
 - [Readme file](README.md)
 - [Shiny App](https://rishadhabib.shinyapps.io/hw08-shinyapp/)
 
