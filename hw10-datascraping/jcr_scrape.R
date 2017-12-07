@@ -83,6 +83,10 @@ authors <- article_title %>%
 authors <- c(authors, rep("NA", nrow(jcr)-length(authors)))
 
 jcr %<>%
-  mutate(authors = authors)
+  mutate(authors = authors, abstract = as.character(abstract))
 
 View(jcr)
+
+write.csv(as.data.frame(jcr), file = "jcr.csv", row.names = FALSE)
+
+
