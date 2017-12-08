@@ -1,0 +1,78 @@
+---
+title: "hw10_jcrscrape"
+author: "RH"
+date: "December 7, 2017"
+output:   github_document: 
+    toc: true
+    toc_depth: 5
+---
+
+```{r setup, include=FALSE}
+## Loading libraries
+library(tidyverse)
+library(magrittr)
+library(purrr)
+library(stringr)
+library(glue)
+
+library(xml2)
+library(rvest)
+
+```
+
+## set link
+##### this is set as a dynamic link so that all issues from a volume can be obtained
+
+```{r}
+link <- function(volume = 44, issue = 1){
+  
+	# get all combinations of the end of the link
+	link_end <- apply(expand.grid(volume, issue), 1, paste, collapse="/")
+	
+	# glue them all to the first bit
+	lapply(link_end, function(link_end) 
+		glue("https://academic.oup.com/jcr/issue/{link_end}"))
+}	
+
+# test it out
+article_link <- as.character(link(43:44, 1:4))
+article_link
+```
+
+### Now we can read in data from that link
+
+```{r}
+article_title <- lapply(article_link, read_html)
+```
+
+```{r}
+View(jcr)
+```
+
+
+## Creating the dataframe
+
+```{r}
+jcr <- data_frame(
+                  # let's get the title of the article 
+                  title = article_title %>%
+                    lapply(html_nodes, css = ".customLink.item-title") %>%    
+                    lapply(html_text, trim = TRUE))  
+
+                  # and the citation
+                  citation = article_title %>%
+                    lappy(html_nodes,css = ".ww-citation-primary") %>%
+                    lappy(html_text),
+
+                  # and the link to the main article where we can find the abstract
+                  article = article_title %>%
+                    html_nodes(css = ".customLink.item-title a") %>%
+                    html_attr("href"),
+
+                  link = glue("https://academic.oup.com{article}"))
+```
+
+
+
+
+
