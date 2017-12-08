@@ -5,7 +5,7 @@ This repo contains the **10th** and last homework submission for STAT 547
 
 ## Contents:
 - [HW 10 R script](jcr_scrape.R)
-- [HW 10 markdown file](hw10-jcrscrape.md)
+- [HW 10 markdown file](hw10_jcrscrape.md)
 - [Readme file](README.md)
 
 
