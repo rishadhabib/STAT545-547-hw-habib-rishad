@@ -5,7 +5,7 @@ This repo contains the **10th** and last homework submission for STAT 547
 
 ## Contents:
 - [HW 10 R script](jcr_scrape.R)
-- [HW 10 markdown file](hw10-datascraping.md)
+- [HW 10 markdown file](hw10-jcrscrape.md)
 - [Readme file](README.md)
 
 
@@ -34,4 +34,4 @@ issue <- 1:6
 article_link <- as.character(link(volume, issue))
 article_link
 ```
-However, the read_html and other functions would not work well with lists and I could not get it into a nice dataframe. The classes on data scraping were very helpful in interpreting the html and writing the code.
+However, the read_html and other functions would not work well with lists and I could not get it into a nice dataframe. So I settled for scraping just one issue of JCR. The classes on data scraping were very helpful in interpreting the html and writing the code.

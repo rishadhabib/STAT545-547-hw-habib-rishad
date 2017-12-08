@@ -2,9 +2,8 @@
 title: "hw10_jcrscrape"
 author: "RH"
 date: "December 7, 2017"
-output:   github_document: 
-    toc: true
-    toc_depth: 5
+output:   github_document 
+
 ---
 
 ```{r setup, include=FALSE}
@@ -22,7 +21,7 @@ library(knitr)
 
 ```
 
-## set link
+#### set link
 ##### this is set as a dynamic link so that all issues from a volume can be obtained
 
 ```{r}
@@ -43,7 +42,7 @@ article_link <- as.character(link(volume, issue))
 article_link
 ```
 
-### Now we can read in data from that link
+#### Now we can read in data from that link
 
 ```{r}
 article_title <- read_html(article_link)
@@ -51,7 +50,7 @@ article_title <- read_html(article_link)
 
 
 
-## Creating the dataframe
+#### Creating the dataframe
 
 ```{r}
 jcr <- data_frame(volume = volume,

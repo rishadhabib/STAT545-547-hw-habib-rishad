@@ -34,6 +34,13 @@ GitHub repository for STAT 545A homework submissions
 - 8th homework submission - [hw08](hw08-shinyapp)
   + [Readme file](hw08-shinyapp/README.md)
   + [Shiny App](https://rishadhabib.shinyapps.io/hw08-shinyapp/)
+  
+- 9th homework submission - [hw09](hw09-Rpackage)
+  + [R Package](https://github.com/rishadhabib/powers)
 
+- 10th homework submission - [hw10](hw10-datascraping)
+  + [Readme file](hw10-datascraping/README.md)
+  + [Markdown File](hw10-datascraping/hw10_jcrscrape.Rmd)
+  + [csv Outputs](hw10-datascraping/jcr432.csv)
 
 ![How I do homework =P](https://i.pinimg.com/originals/08/0f/4c/080f4c345ee2595b70b2ec4cdfcf1980.jpg)
